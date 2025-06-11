@@ -1,6 +1,6 @@
 ---
 title: "What We Can Learn from Games with Variance and Hidden Information"
-date: {{ .Date }}
+date: 2025-06-06
 tags: Games
 categories: Games
 draft: true

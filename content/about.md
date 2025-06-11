@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-date: {{ .Date }}
+date: 2025-06-06
 
 ---
 
