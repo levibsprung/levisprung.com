@@ -1,11 +1,13 @@
 ---
 title: "What We Can Learn from Games with Variance and Hidden Information"
-date: 2025-06-06
-tags: Games
-categories: Games
-draft: true
+date: 2025-06-09
+tags: [Magic, Poker]
+categories: [Games]
 
 ---
+
+A discussion about the primary similarities between two of my favorite games (Magic: The Gathering and poker), those being variance and hidden information. Discusses the effects they have on the game, why these effects are important, and takeaways that can be applicable outside of the games.
+<!--more-->
 
 ## Contents
 * Background
