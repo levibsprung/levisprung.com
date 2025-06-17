@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Levi Sprung</title>
-    <link>levibsprung.github.io/tags/</link>
+    <link>https://levibsprung.github.io/tags/</link>
     <description>Recent content in Tags on Levi Sprung</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="levibsprung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://levibsprung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Music</title>
-      <link>levibsprung.github.io/tags/music/</link>
+      <link>https://levibsprung.github.io/tags/music/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>levibsprung.github.io/tags/music/</guid>
+      <guid>https://levibsprung.github.io/tags/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Reviewing</title>
-      <link>levibsprung.github.io/tags/reviewing/</link>
+      <link>https://levibsprung.github.io/tags/reviewing/</link>
       <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>levibsprung.github.io/tags/reviewing/</guid>
+      <guid>https://levibsprung.github.io/tags/reviewing/</guid>
       <description></description>
     </item>
     <item>
       <title>Magic</title>
-      <link>levibsprung.github.io/tags/magic/</link>
+      <link>https://levibsprung.github.io/tags/magic/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>levibsprung.github.io/tags/magic/</guid>
+      <guid>https://levibsprung.github.io/tags/magic/</guid>
       <description></description>
     </item>
     <item>
       <title>Poker</title>
-      <link>levibsprung.github.io/tags/poker/</link>
+      <link>https://levibsprung.github.io/tags/poker/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>levibsprung.github.io/tags/poker/</guid>
+      <guid>https://levibsprung.github.io/tags/poker/</guid>
       <description></description>
     </item>
   </channel>
