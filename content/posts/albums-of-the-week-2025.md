@@ -102,7 +102,7 @@ My favorite albums from each week in 2025!
 
 * This was an extremely busy week so I didn't pay attention to a lot of the music I listened to, but this one gave me some needed energy
 * Pretty influential album with some nice guitar performances
-* Favorite tracks: Time on My Hands, Lipstick Traces
+* Favorite tracks: Lipstick Traces, Rock Bottom, Time on My Hands, Doctor Doctor (BBC Radio 1 Session my favorite)
 
 #### Apr 28-May 4: [Skip, Hop and Wobble](https://open.spotify.com/album/39zVaR7csPee43Hwr8Liwt?si=4WRT_dhWRTKI9Ck6Mxwo1g) by Jerry Douglas, Russ Baremberg, Edgar Meyer
 
@@ -113,7 +113,7 @@ My favorite albums from each week in 2025!
 
 #### May 5-11: [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7?si=WqWzg0OMRaeBm89h8ytWwQ) by SiR
 
-* Extremely smooth RnB/neo soul album
+* Extremely smooth R&B/neo soul album
 * Favorite tracks: John Redcorn, Hair Down
 
 #### May 12-18: [Dinner Party](https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r?si=UluZ6anASmeDUVexGLyyMQ) by Terrace Martin, Robert Glasper, 9th Wonder
@@ -138,3 +138,9 @@ My favorite albums from each week in 2025!
 * Most of these artists were either late in their careers or unretiring 
 * Still need to watch the film about this album
 * Favorite tracks: Chan Chan, Buena Vista Social Club, De Camino a la Vereda
+
+
+#### Jun 9-15: [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v?si=V4PbiJt4SBWzFgj9ot3gpQ) by Fleet Foxes
+
+* I also liked [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb?si=qPXRSKTMQsKNKkMyRhKCFw) a lot but I had already listened to it earlier
+* Favorite tracks: White Winter Hymnal, Your Protector, Ragged Wood, He Doesn't Know Why

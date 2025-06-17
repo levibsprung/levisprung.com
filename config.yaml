@@ -18,8 +18,8 @@ params:
   bio: Aspiring Software Engineer and Data Scientist
   description: Personal website and blog
   links:
-    - name: testLink
-      url: https://example.com
+    - name: Résumé
+      path: /levi_sprung_resume.pdf
 # googleAnalytics: your-google-analytics-id
 
 
