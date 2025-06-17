@@ -1,7 +1,7 @@
 title: Levi Sprung
 baseURL: https://levibsprung.github.io
 languageCode: en-us
-theme: mini
+theme: hugo-theme-mini
 defaultContentLanguage: en
 # disqusShortname: your-disqus-shortname
 
