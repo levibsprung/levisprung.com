@@ -23,3 +23,7 @@ params:
 # googleAnalytics: your-google-analytics-id
 
 
+caches:
+  images:
+    dir: :cacheDir/images
+

@@ -38,6 +38,7 @@ My favorite albums from each week in 2025!
 
 * Plenty of classics
 * Steely Dan's instrumental solos tie their songs together
+* [Aja](https://open.spotify.com/album/1hOK2ey9W76x9GnftSRgrw?si=MgpDSaRwRvG3QGRvfDPiOg) is also excellent
 * Favorite tracks: Midnite Cruiser, Only A Fool Would Say That
 
 #### Feb 10-16: [Making Movies](https://open.spotify.com/album/7yTjsInNdNQJAlXAboi1nh?si=bd36524223e747cc) by Dire Straits
