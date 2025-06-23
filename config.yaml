@@ -6,15 +6,16 @@ logo: avatar.png
 defaultContentLanguage: en
 # disqusShortname: your-disqus-shortname
 
-social:
-  github: https://github.com/levibsprung/
-  spotify: https://open.spotify.com/user/9c7y9lzudp57ixe94b0ajr3ux?si=e912596ebc36460a
-  linkedin: https://www.linkedin.com/in/levi-sprung
-  email: mailto:levibsprung@gmail.com
+
 
 
 
 params:
+  social:
+    github: https://github.com/levibsprung/
+    spotify: https://open.spotify.com/user/9c7y9lzudp57ixe94b0ajr3ux?si=e912596ebc36460a
+    linkedin: https://www.linkedin.com/in/levi-sprung
+    email: mailto:levibsprung@gmail.com
   author: Levi Sprung
   bio: Aspiring Software Engineer and Data Scientist
   description: Personal website and blog

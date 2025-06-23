@@ -136,7 +136,7 @@ My favorite albums from each week in 2025!
 #### Jun 2-8: [Buena Vista Social Club](https://open.spotify.com/album/5qcOy8sMqROZ0VEfK8LJZt?si=wR4dMgJGSoiCbz9_5IXpOw) by Buena Vista Social Club
 
 * Saw the Buena Vista Social Club musical on Broadway this week and was extremely impressed with the instrumental performances
-* Most of these artists were either late in their careers or unretiring 
+* Most of these artists were either late in their careers or previously retired
 * Still need to watch the film about this album
 * Favorite tracks: Chan Chan, Buena Vista Social Club, De Camino a la Vereda
 
@@ -145,3 +145,13 @@ My favorite albums from each week in 2025!
 
 * I also liked [Helplessness Blues](https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb?si=qPXRSKTMQsKNKkMyRhKCFw) a lot but I had already listened to it earlier
 * Favorite tracks: White Winter Hymnal, Your Protector, Ragged Wood, He Doesn't Know Why
+
+
+#### Jun 16-22: 
+
+
+[Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd?si=4dce7c0eb2a84582)
+
+[Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP?si=482622595f7d4367)
+
+[Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go?si=z7IewcgjRpqn1K0XRzcq8g)
