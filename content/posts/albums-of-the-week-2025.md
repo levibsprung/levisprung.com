@@ -151,7 +151,7 @@ My favorite albums from each week in 2025!
 
 * I listened to a lot of music this week and I couldn't decide between these two so I just went with both because I make the rules
 * Argentinian rock has impressed me; I listened to three of Cerati's albums and Siempre Es Hoy was my favorite of the three
-* Jazz rap always does it for me and Dixon's is the best I've heard from this decade so far with its passionate rap performances and excellent instrumentation
+* Jazz rap almost always does it for me and Dixon's is the best I've heard from this decade so far with its passionate rap performances and excellent instrumentation
 * Magic, Alive! was highly rated from Fantano so this is a W for the music nerds in my book
 * Favorite tracks (Siempre Es Hoy): Cosas Imposibles, Nací para Esto, Tu Cicatriz En Mi, Altar
 * Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Could've Been Different; Magic, Alive
