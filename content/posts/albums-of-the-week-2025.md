@@ -68,7 +68,7 @@ My favorite albums from each week in 2025!
 
 * Could've also been [Películas](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj?si=ee2dOkK-RbioqacdxCymiw)
 * Argentinian prog rock album, shoutout to Gabriel Pino for indirectly showing them to me
-* Favorite tracks: Como Mata el Viento Norte, Boletos, Pases Y Abonos, Por Probar El Vino Y El Agua Salada
+* Favorite tracks: Como Mata el Viento Norte; Boletos, Pases Y Abonos; Por Probar El Vino Y El Agua Salada
 
 #### Mar 17-23: [Wave](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG?si=96402d4172ca415f) by Antônio Carlos Jobim
 
@@ -147,11 +147,11 @@ My favorite albums from each week in 2025!
 * Favorite tracks: White Winter Hymnal, Your Protector, Ragged Wood, He Doesn't Know Why
 
 
-#### Jun 16-22: 
+#### Jun 16-22: [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd?si=4dce7c0eb2a84582) by Gustavo Cerati and [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go?si=z7IewcgjRpqn1K0XRzcq8g) by McKinley Dixon
 
-
-[Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd?si=4dce7c0eb2a84582)
-
-[Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP?si=482622595f7d4367)
-
-[Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go?si=z7IewcgjRpqn1K0XRzcq8g)
+* I listened to a lot of music this week and I couldn't decide between these two so I just went with both because I make the rules
+* Argentinian rock has impressed me; I listened to three of Cerati's albums and Siempre Es Hoy was my favorite of the three
+* Jazz rap always does it for me and Dixon's is the best I've heard from this decade so far with its passionate rap performances and excellent instrumentation
+* Magic, Alive! was highly rated from Fantano so this is a W for the music nerds in my book
+* Favorite tracks (Siempre Es Hoy): Cosas Imposibles, Nací para Esto, Tu Cicatriz En Mi, Altar
+* Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Could've Been Different; Magic, Alive
