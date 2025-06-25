@@ -19,6 +19,7 @@ params:
   author: Levi Sprung
   bio: Aspiring Software Engineer and Data Scientist
   description: Personal website and blog
+  env: production
   links:
     - name: Resume
       path: /levi_sprung_resume.pdf
