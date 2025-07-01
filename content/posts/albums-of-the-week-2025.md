@@ -9,7 +9,7 @@ categories: [Music]
 My favorite albums from each week in 2025!
 <!--more-->
 
-_[Jump to latest](levisprung.com/https://levisprung.com/posts/albums-of-the-week-2025/#jun-23-29-lumin-rain-by-arc-de-soleil)_
+_[Jump to latest](#jun-23-29-lumin-rain-by-arc-de-soleil)_
 
 #### Jan 6-12: [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w?si=3f22729e94ed487c) by HYUKOH and 落日飛車 Sunset Rollercoaster
 
