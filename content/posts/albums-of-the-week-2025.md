@@ -1,6 +1,6 @@
 ---
 title: "Levi's 2025 Albums of the Week"
-date: 2025-06-10
+date: 2025-06-30
 tags: [Music, Reviewing]
 categories: [Music]
 
@@ -163,3 +163,6 @@ My favorite albums from each week in 2025!
 * Uses of guitar create a sort of desert vibe
 * Most of his songs don't include vocals but a few on this album do, and his voice is produced to suit the instrumentals well
 * Favorite tracks: Dunes of Djoser, Midnight in Saqqara, Lumin Rain, Chimera
+
+
+_Published June 10, 2025 | Last updated June 30, 2025_

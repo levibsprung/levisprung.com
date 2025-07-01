@@ -18,10 +18,11 @@ I am a Computer Science graduate (B.S. 2025) and Data Science student (M.S. 2026
 ## What am I doing?
 
 
-I am spending this summer working on my software engineering skills. In addition to this website, I'm working on a Scrabble database that allows users to upload games using only a photo of the game board and a list of scores, as well as exploring reinforcement learning with Scrabble. I am also looking to write about my interests and the lessons they have taught me.
+I am spending this summer working on my software engineering skills. In addition to this website, I'm working on a Scrabble database that allows users to upload games using only a photo of the game board and a list of scores, as well as exploring reinforcement learning with Scrabble. I am also working on a database for Magic: The Gathering Online (MTGO) events for data analysis purposes.
 
 ## What are my goals?
 
 
 I've long wanted a place to catalog my ideas and experiences, so in this website's initial stages, that will be its primary purpose. Ideally, as I continue to work on more projects, it will also serve to showcase and document those.
 
+_Are you an employer or recruiter and want to learn more about me? [Download my resume (PDF)](/levi_sprung_resume.pdf) here!_

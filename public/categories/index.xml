@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Levi Sprung</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://levibsprung.github.io/categories/</link>
     <description>Recent content in Categories on Levi Sprung</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://levibsprung.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Music</title>
-      <link>http://localhost:1313/categories/music/</link>
-      <pubDate>Tue, 10 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/music/</guid>
+      <link>https://levibsprung.github.io/categories/music/</link>
+      <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://levibsprung.github.io/categories/music/</guid>
       <description></description>
     </item>
     <item>
       <title>Games</title>
-      <link>http://localhost:1313/categories/games/</link>
+      <link>https://levibsprung.github.io/categories/games/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/games/</guid>
+      <guid>https://levibsprung.github.io/categories/games/</guid>
       <description></description>
     </item>
   </channel>
