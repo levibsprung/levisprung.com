@@ -9,6 +9,8 @@ categories: [Music]
 My favorite albums from each week in 2025!
 <!--more-->
 
+_[Jump to latest](levisprung.com/https://levisprung.com/posts/albums-of-the-week-2025/#jun-23-29-lumin-rain-by-arc-de-soleil)_
+
 #### Jan 6-12: [AAA](https://open.spotify.com/album/1tEu6qNPURb0YfjaRDK23w?si=3f22729e94ed487c) by HYUKOH and 落日飛車 Sunset Rollercoaster
 
 * Collaboration between a Korean indie pop/rock band HYUKOH and a Taiwanese jazzy synth-pop band Sunset Rollercoaster
@@ -55,7 +57,7 @@ My favorite albums from each week in 2025!
 
 #### Feb 24-Mar 2: [Bang Bang](https://open.spotify.com/album/0tN2TkilPoLmqN21UJBC77?si=OaShTa6GSEacbRpceJO8qQ) by DISPATCH
 
-* Very close between this and [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw?si=qHt69IqlS76C--OGpRXCJA)
+* Close between this and [America, Location 12](https://open.spotify.com/album/4aWKSKDk0EKPuyv3IsTrsw?si=qHt69IqlS76C--OGpRXCJA)
 * Excellent storytelling from DISPATCH
 * Favorite tracks: The General, Bang Bang, Bats in the Belfry
 
