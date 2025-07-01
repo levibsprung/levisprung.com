@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magic on Levi Sprung</title>
-    <link>http://localhost:1313/tags/magic/</link>
+    <link>https://levisprung.com/tags/magic/</link>
     <description>Recent content in Magic on Levi Sprung</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 09 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/magic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://levisprung.com/tags/magic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What We Can Learn from Games with Variance and Hidden Information</title>
-      <link>http://localhost:1313/posts/games-with-variance-and-hidden-information/</link>
+      <link>https://levisprung.com/posts/games-with-variance-and-hidden-information/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/games-with-variance-and-hidden-information/</guid>
+      <guid>https://levisprung.com/posts/games-with-variance-and-hidden-information/</guid>
       <description>&lt;p&gt;A discussion about the primary similarities between two of my favorite games (Magic: The Gathering and poker), those being variance and hidden information. Discusses the effects they have on the game, why these effects are important, and takeaways that can be applicable outside of the games.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -27,3 +27,9 @@ caches:
   images:
     dir: :cacheDir/images
 
+markup:
+  tableOfContents:
+    endLevel: 4
+    ordered: false
+    startLevel: 4
+

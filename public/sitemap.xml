@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://levisprung.com/categories/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://levisprung.com/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/albums-of-the-week-2025/</loc>
+    <loc>https://levisprung.com/posts/albums-of-the-week-2025/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/music/</loc>
+    <loc>https://levisprung.com/categories/music/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/music/</loc>
+    <loc>https://levisprung.com/tags/music/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://levisprung.com/posts/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/reviewing/</loc>
+    <loc>https://levisprung.com/tags/reviewing/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://levisprung.com/tags/</loc>
     <lastmod>2025-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/games/</loc>
+    <loc>https://levisprung.com/categories/games/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/magic/</loc>
+    <loc>https://levisprung.com/tags/magic/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/poker/</loc>
+    <loc>https://levisprung.com/tags/poker/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/games-with-variance-and-hidden-information/</loc>
+    <loc>https://levisprung.com/posts/games-with-variance-and-hidden-information/</loc>
     <lastmod>2025-06-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://levisprung.com/about/</loc>
     <lastmod>2025-06-06T00:00:00+00:00</lastmod>
   </url>
 </urlset>

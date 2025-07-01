@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Levi Sprung</title>
-    <link>http://localhost:1313/</link>
+    <link>https://levisprung.com/</link>
     <description>Recent content on Levi Sprung</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://levisprung.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Levi&#39;s 2025 Albums of the Week</title>
-      <link>http://localhost:1313/posts/albums-of-the-week-2025/</link>
+      <link>https://levisprung.com/posts/albums-of-the-week-2025/</link>
       <pubDate>Mon, 30 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/albums-of-the-week-2025/</guid>
+      <guid>https://levisprung.com/posts/albums-of-the-week-2025/</guid>
       <description>&lt;p&gt;My favorite albums from each week in 2025!&lt;/p&gt;</description>
     </item>
     <item>
       <title>What We Can Learn from Games with Variance and Hidden Information</title>
-      <link>http://localhost:1313/posts/games-with-variance-and-hidden-information/</link>
+      <link>https://levisprung.com/posts/games-with-variance-and-hidden-information/</link>
       <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/games-with-variance-and-hidden-information/</guid>
+      <guid>https://levisprung.com/posts/games-with-variance-and-hidden-information/</guid>
       <description>&lt;p&gt;A discussion about the primary similarities between two of my favorite games (Magic: The Gathering and poker), those being variance and hidden information. Discusses the effects they have on the game, why these effects are important, and takeaways that can be applicable outside of the games.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://levisprung.com/about/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://levisprung.com/about/</guid>
       <description>&lt;p&gt;How I would describe myself in a few paragraphs.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -3,6 +3,7 @@ title: "Levi's 2025 Albums of the Week"
 date: 2025-06-30
 tags: [Music, Reviewing]
 categories: [Music]
+showToc: true
 
 ---
 
