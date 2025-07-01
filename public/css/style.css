@@ -12,6 +12,8 @@
   --tag-color: #444;
   --box-color: #f2f2f2;
   --box-inner-color: #999;
+  --icon-background: #bbbbbb;
+  --icon-fill: #fff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -29,6 +31,8 @@
     --tag-color: #fff;
     --box-color: #555;
     --box-inner-color: #bbb;
+    --icon-background: #666;
+    --icon-fill: #333;
   }
 }
 
