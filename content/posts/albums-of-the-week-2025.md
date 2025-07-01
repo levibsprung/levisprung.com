@@ -155,3 +155,11 @@ My favorite albums from each week in 2025!
 * Magic, Alive! was highly rated from Fantano so this is a W for the music nerds in my book
 * Favorite tracks (Siempre Es Hoy): Cosas Imposibles, Nací para Esto, Tu Cicatriz En Mi, Altar
 * Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Could've Been Different; Magic, Alive
+
+#### Jun 23-29: [Lumin Rain]() by Arc De Soleil
+
+* I listened to a lot of MF Doom this week as well and highly enjoyed [Vaudeville Villain]() ([Madvillainy]() is also an excellent album and I highly recommend both)
+* Been a huge fan of Arc De Soleil's music since discovering him last summer and his debut album did not disappoint me
+* Uses of guitar create a sort of desert vibe
+* Most of his songs don't include vocals but a few on this album do, and his voice is produced to suit the instrumentals well
+* Favorite tracks: Dunes of Djoser, Midnight in Saqqara, Lumin Rain, Chimera
