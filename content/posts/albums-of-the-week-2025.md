@@ -105,7 +105,8 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 #### Mar 17-23: [Wave](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG?si=96402d4172ca415f) by Antônio Carlos Jobim
 
-* Jobim is one of the pioneers of bossa nova
+* Listened to a lot of bossa nova this week, and Jobim is one of the pioneers of the genre
+* Also enjoyed Toco's vocal bossa nova album [Outro Lugar](https://open.spotify.com/album/53WnDiMAKdL0Lwfz6ckxvx?si=VIb7kOy_TfWvnOUu5GHAxw)
 * Very chill and good for studying (which I clearly needed this week)
 * Favorite tracks: Wave, Triste, Batidinha
 
