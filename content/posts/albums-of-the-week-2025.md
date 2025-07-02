@@ -1,6 +1,6 @@
 ---
 title: "Levi's 2025 Albums of the Week"
-date: 2025-06-30
+date: 2025-07-02
 tags: [Music, Reviewing]
 categories: [Music]
 showToc: true
@@ -31,7 +31,7 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 * Jazz rap almost always does it for me and Dixon's is the best I've heard from this decade so far with its passionate rap performances and excellent instrumentation
 * Magic, Alive! was highly rated from Fantano so this is a W for the music nerds in my book
 * Favorite tracks (Siempre Es Hoy): Cosas Imposibles, Nací para Esto, Tu Cicatriz En Mi, Altar
-* Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Could've Been Different; Magic, Alive
+* Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Could've Been Different; Magic, Alive!
 
 #### Jun 9-15: [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v?si=V4PbiJt4SBWzFgj9ot3gpQ) by Fleet Foxes
 
@@ -172,4 +172,4 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 * Favorite tracks: Young Man, Do Nothing, Y 
 
 
-_Published June 10, 2025 | Last updated June 30, 2025_
+_Published June 10, 2025 | Last updated July 2, 2025_
