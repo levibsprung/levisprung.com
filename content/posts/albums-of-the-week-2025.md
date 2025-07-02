@@ -10,11 +10,11 @@ showToc: true
 My favorite albums from each week in 2025!
 <!--more-->
 
-In 2025, I decided to do an album of the week. I found that I am happier the more music I listen to, so I figured I would listen to a lot of music this year and share some of my favorites throughout the year. 
+In 2025, I decided to select an album of the week for each week. I found that I am happier the more music I listen to, so I figured I would listen to a lot of music this year and share some of my favorites throughout the year. 
 
 With a few exceptions, the selected albums aren't necessarily my favorite new releases, but rather the albums that I listened to and enjoyed the most on the respective week (almost always my first time listening to that entire album).
 
-I don't expect you to enjoy all of my selections, but I hope you find something you like.
+I hope you enjoy reading this and consider listening to some of the albums I selected.
 
 #### Jun 23-29: [Lumin Rain](https://open.spotify.com/album/4zaLofIfUmWIfP04hlefLw?si=b8TktT0vRluzackPbc39xQ) by Arc De Soleil
 
