@@ -16,6 +16,15 @@ With a few exceptions, the selected albums aren't necessarily my favorite new re
 
 I hope you enjoy reading this and consider listening to some of the albums I selected.
 
+Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
+
+
+#### Jun 30-Jul 6: [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI?si=aQqfCGeESL28VgxjH3kY8A) by Fiona Apple
+
+* Realized I my selections weren't passing the Bechdel test so I decided to do something about that, and I really enjoyed this album
+* The piano chord progressions throughout in conjunction with the emotion-filled vocal delivery were effective for me
+* Favorite tracks: Limp, Paper Bag, Fast As You Can
+
 #### Jun 23-29: [Lumin Rain](https://open.spotify.com/album/4zaLofIfUmWIfP04hlefLw?si=b8TktT0vRluzackPbc39xQ) by Arc De Soleil
 
 * I listened to a lot of MF Doom this week as well and highly enjoyed [Vaudeville Villain](https://open.spotify.com/album/7HPjcPD2cr8E5oHvVAmBp7?si=YLhpUVf9QjmyeK1NBRul-A) ([Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk?si=pYE-l_PpTESP3_S9xeWbjg) is also an excellent album and I highly recommend both)
