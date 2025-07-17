@@ -18,10 +18,15 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
+#### Jul 7-13: [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk?si=CyPMwJvJTK-w4e_oN-KbFQ) by Weyes Blood
+* Getting some more pop-ish music from the last 10-15 years into my rotation
+* Instrumentals stood out to me with immersive strings and keys
+* Favorite tracks: Andromeda, Something to Believe, A Lot's Gonna Change
+
 
 #### Jun 30-Jul 6: [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI?si=aQqfCGeESL28VgxjH3kY8A) by Fiona Apple
 
-* Realized I my selections weren't passing the Bechdel test so I decided to do something about that, and I really enjoyed this album
+* I Realized my selections weren't passing the Bechdel test so I decided to do something about that, and I really enjoyed this album
 * The piano chord progressions throughout in conjunction with the emotion-filled vocal delivery were effective for me
 * Favorite tracks: Limp, Paper Bag, Fast As You Can
 
@@ -39,7 +44,7 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 * Argentinian rock has impressed me; I listened to three of Cerati's albums and Siempre Es Hoy was my favorite of the three
 * Jazz rap almost always does it for me and Dixon's is the best I've heard from this decade so far with its passionate rap performances and excellent instrumentation
 * Magic, Alive! was highly rated from Fantano so this is a W for the music nerds in my book
-* Favorite tracks (Siempre Es Hoy): Cosas Imposibles, Nací para Esto, Tu Cicatriz En Mi, Altar
+* Favorite tracks (Siempre Es Hoy): Cosas Imposibles, Nací para Esto, Tu Cicatriz En Mi
 * Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Could've Been Different; Magic, Alive!
 
 #### Jun 9-15: [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v?si=V4PbiJt4SBWzFgj9ot3gpQ) by Fleet Foxes
