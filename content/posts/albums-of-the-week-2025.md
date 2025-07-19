@@ -18,6 +18,12 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
+#### Jul 14-20: [Melt My Eyez See Your Future (The Extended Edition)](https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI?si=FH5v9pYIQOS3V-iwrNwPLw)
+* Somehow convinced myself I had listened to this already but that was evidently not the case
+* Denzel Curry is a consistently fantastic rapper
+* This is some of the more jazzy production that Denzel has been a part of, especially the second disc, which contains fully acoustic instrumentals and no autotune
+* Favorite tracks: Walkin (both versions), X-Wing - Cold Blooded Soul Version, The Ills (Both Versions), Melt Session #1 - Cold Blooded Soul Version, Sanjuro
+
 #### Jul 7-13: [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk?si=CyPMwJvJTK-w4e_oN-KbFQ) by Weyes Blood
 * Getting some more pop-ish music from the last 10-15 years into my rotation
 * Instrumentals stood out to me with immersive strings and keys
