@@ -1,6 +1,6 @@
 ---
 title: "Levi's 2025 Albums of the Week"
-date: 2025-07-02
+date: 2025-07-20
 tags: [Music, Reviewing]
 categories: [Music]
 showToc: true
@@ -22,7 +22,7 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 * Somehow convinced myself I had listened to this already but that was evidently not the case
 * Denzel Curry is a consistently fantastic rapper
 * This is some of the more jazzy production that Denzel has been a part of, especially the second disc, which contains fully acoustic instrumentals and no autotune
-* Favorite tracks: Walkin (both versions), X-Wing - Cold Blooded Soul Version, The Ills (Both Versions), Melt Session #1 - Cold Blooded Soul Version, Sanjuro
+* Favorite tracks: Walkin (both versions), X-Wing - Cold Blooded Soul Version, The Ills (Both Versions), Melt Session #1 - Cold Blooded Soul Version, The Last
 
 #### Jul 7-13: [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk?si=CyPMwJvJTK-w4e_oN-KbFQ) by Weyes Blood
 * Getting some more pop-ish music from the last 10-15 years into my rotation
@@ -192,4 +192,4 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 * Favorite tracks: Young Man, Do Nothing, Y 
 
 
-_Published June 10, 2025 | Last updated July 2, 2025_
+_Published June 10, 2025 | Last updated July 20, 2025_
