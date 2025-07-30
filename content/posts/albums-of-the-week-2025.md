@@ -1,6 +1,6 @@
 ---
 title: "Levi's 2025 Albums of the Week"
-date: 2025-07-20
+date: 2025-07-30
 tags: [Music, Reviewing]
 categories: [Music]
 showToc: true
@@ -18,7 +18,16 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
-#### Jul 14-20: [Melt My Eyez See Your Future (The Extended Edition)](https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI?si=FH5v9pYIQOS3V-iwrNwPLw)
+
+#### Jul 21-27: [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u?si=uYvZn5oqTG6JKEbocNAELw) by Quadeca
+* Good week for new releases, as I really liked [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV?si=fe627c5ecfc5429a) by Freddie Gibbs and The Alchemist, and [Don't Tap The Glass](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R?si=6KGANdN7SiaxQ3wAA_toxA) by Tyler, The Creator was a pleasant album as well
+* Had high expectations for this album since I was blown away by the singles, but it did not live up to my lofty expectations
+* Experimental and stylistically fluid artist, incorporating elements of many genres, some of which I enjoy more (e.g. baroque pop) and others of which I don't enjoy as much (e.g. noise)
+* There is also an album movie, which I felt didn't add a ton to the overall experience, although its ending (particularly the last song CASPER) was incredible
+* With all being said, an awesome listening experience with the singles pulling plenty of weight in my view
+* Favorite tracks: FORGONE, GODSTAINED, MONDAY, RUIN MY LIFE
+
+#### Jul 14-20: [Melt My Eyez See Your Future (The Extended Edition)](https://open.spotify.com/album/5eXL40WFKPjdCw0NZrRcJI?si=FH5v9pYIQOS3V-iwrNwPLw) by Denzel Curry
 * Somehow convinced myself I had listened to this already but that was evidently not the case
 * Denzel Curry is a consistently fantastic rapper
 * This is some of the more jazzy production that Denzel has been a part of, especially the second disc, which contains fully acoustic instrumentals and no autotune
@@ -192,4 +201,4 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 * Favorite tracks: Young Man, Do Nothing, Y 
 
 
-_Published June 10, 2025 | Last updated July 20, 2025_
+_Published June 10, 2025 | Last updated July 30, 2025_
