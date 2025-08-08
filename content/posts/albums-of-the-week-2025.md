@@ -18,6 +18,11 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
+#### Jul 28-Aug 3: [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=EubQZ__wQJm-6q0cfIfYMQ) by Massive Attack
+* Massive Attack was one of the main pioneers of the trip hop genre, along with Portishead
+* Strikes a lot of similar notes to Portishead with relatively slow hip hop-esque beats and somewhat whispery vocals
+* Incorporates some heavy sounds with electric guitars and percussion ramping up at certain points
+* Favorite tracks: Angel, Inertia Creeps, Group Four, Teardrop
 
 #### Jul 21-27: [Vanisher, Horizon Scraper](https://open.spotify.com/album/6o6VAIetIFOsaOa0qt7w9u?si=uYvZn5oqTG6JKEbocNAELw) by Quadeca
 * Good week for new releases, as I really liked [Alfredo 2](https://open.spotify.com/album/5WrpCQmbTUZuzNxGCPUFSV?si=fe627c5ecfc5429a) by Freddie Gibbs and The Alchemist, and [Don't Tap The Glass](https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R?si=6KGANdN7SiaxQ3wAA_toxA) by Tyler, The Creator was a pleasant album as well
@@ -53,14 +58,12 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 * Most of his songs don't include vocals but a few on this album do, and his voice is produced to suit the instrumentals well
 * Favorite tracks: Dunes of Djoser, Midnight in Saqqara, Lumin Rain, Chimera
 
-#### Jun 16-22: [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd?si=4dce7c0eb2a84582) by Gustavo Cerati and [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go?si=z7IewcgjRpqn1K0XRzcq8g) by McKinley Dixon
+#### Jun 16-22: [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go?si=z7IewcgjRpqn1K0XRzcq8g) by McKinley Dixon
 
-* I listened to a lot of music this week and I couldn't decide between these two so I just went with both because I make the rules
-* Argentinian rock has impressed me; I listened to three of Cerati's albums and Siempre Es Hoy was my favorite of the three
+* Argentinian rock has impressed me; I listened to three of Gustavo Cerati's albums and Siempre Es Hoy was my favorite of the three, although Magic, Alive! in hindsight took the cake
 * Jazz rap almost always does it for me and Dixon's is the best I've heard from this decade so far with its passionate rap performances and excellent instrumentation
 * Magic, Alive! was highly rated from Fantano so this is a W for the music nerds in my book
-* Favorite tracks (Siempre Es Hoy): Cosas Imposibles, Nací para Esto, Tu Cicatriz En Mi
-* Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Could've Been Different; Magic, Alive!
+* Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Sugar Water; Could've Been Different; Magic, Alive!
 
 #### Jun 9-15: [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v?si=V4PbiJt4SBWzFgj9ot3gpQ) by Fleet Foxes
 
