@@ -1,6 +1,6 @@
 ---
 title: "Levi's 2025 Albums of the Week"
-date: 2025-07-30
+date: 2025-08-18
 tags: [Music, Reviewing]
 categories: [Music]
 showToc: true
@@ -17,6 +17,20 @@ With a few exceptions, the selected albums aren't necessarily my favorite new re
 I hope you enjoy reading this and consider listening to some of the albums I selected.
 
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
+
+#### Aug 11-17: [Speak for Yourself](https://open.spotify.com/album/4Is0raRF9P6wWFZjXO6P9K?si=Hai0chgwTnub-mu_HT50Xw) by Imogen Heap
+- Honorable mention: [Moment of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2?si=0MieUNxlT0uBKVK3Tic8Dg) by Gang Starr
+- Some unique and ethereal sounds from Imogen Heap here
+- Comparable to Björk as another female electronic pop artist from around the early 2000s, but I was partial to Imogen's vocals
+- Favorite tracks: Goodnight and Go, The Walk, Headlock, Hide and Seek, Just for Now
+
+
+
+#### Aug 4-10: [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH?si=d42d84f9edc547f2) by Erykah Badu
+- Started to delve into 90s/2000s neo-soul this week, and this album was my favorite so far
+- The tracks flow well into each other, and Badu's vocals complement the smooth instrumentals wlel
+- Favorite tracks: Didn't Cha Know, A.D. 2000, ...& On, Bag Lady
+
 
 #### Jul 28-Aug 3: [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR?si=EubQZ__wQJm-6q0cfIfYMQ) by Massive Attack
 * Massive Attack was one of the main pioneers of the trip hop genre, along with Portishead
@@ -60,7 +74,7 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 
 #### Jun 16-22: [Magic, Alive!](https://open.spotify.com/album/0RXsRwX4iMCKkSFPoSs8Go?si=z7IewcgjRpqn1K0XRzcq8g) by McKinley Dixon
 
-* Argentinian rock has impressed me; I listened to three of Gustavo Cerati's albums and Siempre Es Hoy was my favorite of the three, although Magic, Alive! in hindsight took the cake
+* Honorable mention: [Siempre Es Hoy](https://open.spotify.com/album/46Yq9oqsaZJb9ahoMk9iVd?si=f7bUXO3kRx2X0OjBdSmABg) by Gustavo Cerati
 * Jazz rap almost always does it for me and Dixon's is the best I've heard from this decade so far with its passionate rap performances and excellent instrumentation
 * Magic, Alive! was highly rated from Fantano so this is a W for the music nerds in my book
 * Favorite tracks (Magic, Alive!): Sugar Water; We're Outside, Rejoice!; Run, Run, Run Pt. II; Sugar Water; Could've Been Different; Magic, Alive!
@@ -145,7 +159,7 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 #### Mar 10-16: [La Máquina de Hacer Pájaros](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj?si=QZPvIonmQ6qPLeoyuqG_OQ) by La Máquina de Hacer Pájaros
 
 * Could've also been [Películas](https://open.spotify.com/album/6hlwylwLskentQQsbTKpcj?si=ee2dOkK-RbioqacdxCymiw)
-* Argentinian prog rock album, shoutout to Gabriel Pino for indirectly showing them to me
+* This artist was a pleasant introduction to Argentinian progressive rock for me
 * Favorite tracks: Como Mata el Viento Norte; Boletos, Pases Y Abonos; Por Probar El Vino Y El Agua Salada
 
 #### Mar 3-9: [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ?si=b9dPFyB-Qhua8Y5piTmbSg) by Coldplay
@@ -204,4 +218,4 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 * Favorite tracks: Young Man, Do Nothing, Y 
 
 
-_Published June 10, 2025 | Last updated July 30, 2025_
+_Published June 10, 2025 | Last updated August 18, 2025_
