@@ -18,6 +18,11 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
+#### Aug 18-24: [Arthur Verocai](https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO?si=GoDaYDjKQz6sugJDvd-f0g) by Arthur Verocai
+- Struck me as sort of an inverse Masayoshi Takanaka: a jazz-samba album with city pop influences
+- Wafting instrumentals highlighted by percussion which was unorthodox at times
+- Favorite tracks: need to relisten
+
 #### Aug 11-17: [Speak for Yourself](https://open.spotify.com/album/4Is0raRF9P6wWFZjXO6P9K?si=Hai0chgwTnub-mu_HT50Xw) by Imogen Heap
 - Honorable mention: [Moment of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2?si=0MieUNxlT0uBKVK3Tic8Dg) by Gang Starr
 - Some unique and ethereal sounds from Imogen Heap here
