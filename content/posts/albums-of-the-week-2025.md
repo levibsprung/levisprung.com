@@ -1,6 +1,6 @@
 ---
 title: "Levi's 2025 Albums of the Week"
-date: 2025-08-18
+date: 2025-08-25
 tags: [Music, Reviewing]
 categories: [Music]
 showToc: true
@@ -19,8 +19,8 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
 #### Aug 18-24: [Arthur Verocai](https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO?si=GoDaYDjKQz6sugJDvd-f0g) by Arthur Verocai
-- Struck me as sort of an inverse Masayoshi Takanaka: a jazz-samba album with city pop influences
-- Wafting instrumentals highlighted by percussion which was unorthodox at times
+- Struck me as sort of an inverse Masayoshi Takanaka: a jazz-samba album at times reminiscent of city pop
+- Wafting instrumentals highlighted by unorthodox percussion
 - Favorite tracks: need to relisten
 
 #### Aug 11-17: [Speak for Yourself](https://open.spotify.com/album/4Is0raRF9P6wWFZjXO6P9K?si=Hai0chgwTnub-mu_HT50Xw) by Imogen Heap
@@ -223,4 +223,4 @@ Side note: I do not like or support Spotify. I would probably switch to Tidal bu
 * Favorite tracks: Young Man, Do Nothing, Y 
 
 
-_Published June 10, 2025 | Last updated August 18, 2025_
+_Published June 10, 2025 | Last updated August 25, 2025_
