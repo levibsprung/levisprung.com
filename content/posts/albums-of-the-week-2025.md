@@ -18,6 +18,15 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
+
+
+#### Aug 25-31: [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=Jq-V7CsnSO2Z2P_F_V-dVA) by Radiohead
+- Alt rock album with a perfect combination of musical exemplariness and nostalgic value for me
+- Paranoid Android is one of my top songs of all time and Karma Police was one of the songs I have a strongest memory of listening to as a child
+- Listened/relistened to a lot of Radiohead this week and OK Computer was my favorite
+- Not providing much descriptive language here - just listen to it if you haven't already
+- Favorite tracks: Paranoid Android, Karma Police, Lucky, Exit Music (For A Film)
+
 #### Aug 18-24: [Arthur Verocai](https://open.spotify.com/album/4yv17Q486G8QoqM001kFKO?si=GoDaYDjKQz6sugJDvd-f0g) by Arthur Verocai
 - Struck me as sort of an inverse Masayoshi Takanaka: a jazz-samba album at times reminiscent of city pop
 - Wafting instrumentals highlighted by unorthodox percussion
