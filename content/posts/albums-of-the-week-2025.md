@@ -18,6 +18,11 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
+#### Sep 1-7: [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj?si=ISjrMGwcQOO621hN4G_CKg) by Queens of the Stone Age
+- Honorable mention: [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG?si=_e5tbtseQwynIwpij-fNrg) by Sade
+- Another alt rock album with masterful songwriting throughout
+- Wasn't expecting to love QOTSA after their earlier album Songs For The Deaf wasn't quite up my alley, but this was more in line with my tastes
+- Favorite tracks: I Appear Missing, The Vampyre of Time and Memory, I Sat by the Ocean, My God Is the Sun
 
 
 #### Aug 25-31: [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE?si=Jq-V7CsnSO2Z2P_F_V-dVA) by Radiohead
