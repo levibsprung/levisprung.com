@@ -16,7 +16,14 @@ With a few exceptions, the selected albums aren't necessarily my favorite new re
 
 I hope you enjoy reading this and consider listening to some of the albums I selected.
 
-Side note: I do not like or support Spotify. I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
+Side note: I do not like or support Spotify (concerns include CEO weapons investment, AI support, and poor artist pay). I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
+
+#### Sep 8-14: [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv?si=0b82816bc6fe46d1) by Racing Mount Pleasant
+- Honorable Mention: [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC?si=63c81e6e28a446be) by Sigur Rós
+- Listened to a bunch of post-rock this week (mostly Sigur Rós and Swans) but kept coming back to Racing Mount Pleasant's second album which released earlier this year
+- Heavy inspiration from Black Country, New Road but felt far more approachable
+- Post-rock has appealed to me as a genre with the way it can combine various types of instruments (percussion, strings, horns, guitars, keys, vocals) in a cohesive way, and RMP's execution of it checked all the boxes for me
+- Favorite tracks: Call it Easy, Emily, Racing Mount Pleasant, Your New Place, Outlast
 
 #### Sep 1-7: [...Like Clockwork](https://open.spotify.com/album/5T5NM01392dvvd4EhGrCnj?si=ISjrMGwcQOO621hN4G_CKg) by Queens of the Stone Age
 - Honorable mention: [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG?si=_e5tbtseQwynIwpij-fNrg) by Sade
