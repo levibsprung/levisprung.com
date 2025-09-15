@@ -1,6 +1,6 @@
 ---
 title: "Levi's 2025 Albums of the Week"
-date: 2025-08-25
+date: 2025-09-15
 tags: [Music, Reviewing]
 categories: [Music]
 showToc: true
@@ -16,7 +16,7 @@ With a few exceptions, the selected albums aren't necessarily my favorite new re
 
 I hope you enjoy reading this and consider listening to some of the albums I selected.
 
-Side note: I do not like or support Spotify (concerns include CEO weapons investment, AI support, and poor artist pay). I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
+Side note: I do not like or support Spotify (concerns include CEO weapons investments, AI support, and poor artist pay). I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
 
 #### Sep 8-14: [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv?si=0b82816bc6fe46d1) by Racing Mount Pleasant
 - Honorable Mention: [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC?si=63c81e6e28a446be) by Sigur Rós
@@ -244,4 +244,4 @@ Side note: I do not like or support Spotify (concerns include CEO weapons invest
 * Favorite tracks: Young Man, Do Nothing, Y 
 
 
-_Published June 10, 2025 | Last updated August 25, 2025_
+_Published June 10, 2025 | Last updated September 15, 2025_
