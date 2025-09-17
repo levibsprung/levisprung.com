@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Levi Sprung</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://levisprung.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project Update: Scrabble Database</title>
+      <link>https://levisprung.com/posts/scrabble-database-project-update-sep-25/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://levisprung.com/posts/scrabble-database-project-update-sep-25/</guid>
+      <description>&lt;p&gt;An update on my Scrabble board traceback and database project which I have been working on throughout the summer.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Levi&#39;s 2025 Albums of the Week</title>
       <link>https://levisprung.com/posts/albums-of-the-week-2025/</link>
