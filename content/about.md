@@ -17,7 +17,7 @@ I am a Computer Science graduate (B.S. 2025) and Data Science student (M.S. 2026
 
 ## What am I doing?
 
-I am now in the thick of my last fall semester. I'm trying to develop a solid routine, as I haven't had a particularly normal week so far as of writing this, but I am hoping to spend the bulk of my spare time taking actions to further my career goals, be that working on job applications or on projects. As for extracurriculars, I was hoping to do one of the plays this semester to work on my acting skills and as a social and artistic outlet, but I didn't get into either of them so I opted to do a cappella instead, which checks two of the three aforementioned boxes and provides plenty of additional benefits that the plays wouldn't have offered me.
+I am now in the thick of my last fall semester. I'm trying to develop a solid routine, as I haven't had a particularly normal week so far as of writing this, but I am hoping to spend the bulk of my spare time taking actions to further my career goals, be that working on job applications or on projects. As for extracurriculars, I was hoping to do one of the plays this semester to work on my acting skills and as a social and artistic outlet, but I didn't get into either of them so I opted to do a cappella instead, which provides a similar outlet along with plenty of additional benefits that the plays wouldn't have offered me.
 
 ## What are my goals?
 
