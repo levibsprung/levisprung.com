@@ -23,7 +23,7 @@ This project aims to allow users to take a photo of a Scrabble board with an alr
 ## Motivation
 As far as my interests in games go, Scrabble is the one which goes back the farthest. When I was around 6 years old, my older sister started attending a book club with a group of families, where one parent for each family would participate along with the involved children. The other parents would play Scrabble during the meetings, and I would join my dad to watch him play. After not too long, I started playing by myself and getting invested in the strategy of the game. I eventually started learning important words, notably memorizing all 2-letter words. To this day, Scrabble is the most commonly played game in my family, and nowadays we play it almost every time I see my parents. 
 
-Last spring, I decided to participate in the BlasterHacks Hackathon at Colorado School of Mines. However, since I had a Saint Motel concert Saturday evening and wanted to accrue a semi-regular amount of sleep, I opted to work solo and not take the Hackathon extremely seriously. My main goal was to start a project, so that I could have a project to work on in my spare time throughout the rest of the year. 
+Last spring, I decided to participate in the BlasterHacks Hackathon at Colorado School of Mines. However, since I had a Saint Motel concert Saturday evening and wanted to accrue a semi-regular amount of sleep, I opted to work solo and not take the Hackathon extremely seriously. My main goal was to start a project since I wanted to have a project to work on in my spare time throughout the rest of the year. 
 
 I generally don't have the spare time and energy for side projects due to classes, extracurriculars, and poor time management, but I figured that since the hardest part is starting, it would be easier if I had an in progress project already. Ultimately, my workload ended up being too heavy to spend any more time on it throughout the remainder of the semester, but it was worth a try. I had a few ideas, but this Scrabble database was the one which came out on top, so I put on some Miles Davis and got to work.
 
@@ -108,7 +108,7 @@ I also tried to use the color of the board for a mask, with the idea of drawing 
 
 3. Gridline Detection
 
-The third approach I invested significant time into was Hough transforms for grid detection, which is an idea I got from carson920's project. I was able to generate pretty good gridlines for my board using the Hough transform, but using these lines to determine the corner locatios would be tougher.
+The third approach I invested significant time into was Hough transforms for grid detection, which is an idea I got from carson920's project. I was able to generate pretty good gridlines for my board using the Hough transform, but using these lines to determine the corner locations would be tougher.
 
 {{<figure
     src="images/gridlineDemo.png"
