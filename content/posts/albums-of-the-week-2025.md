@@ -1,6 +1,6 @@
 ---
 title: "Levi's 2025 Albums of the Week"
-date: 2025-09-15
+date: 2025-09-29
 tags: [Music, Reviewing]
 categories: [Music]
 showToc: true
@@ -17,6 +17,11 @@ With a few exceptions, the selected albums aren't necessarily my favorite new re
 I hope you enjoy reading this and consider listening to some of the albums I selected.
 
 Side note: I do not like or support Spotify (concerns include CEO weapons investments, AI support, and poor artist pay). I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
+
+#### Sep 15-21: [Emergency on Planet Earth](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM?si=44nWkuy5SZqmbwtretfxmg) by Jamiroquai
+- Extremely funky
+- Most of Jamiroquai's discography was fun to listen to, but their debut was my favorite listening experience
+- Favorite tracks: Too Young to Die, Emergency on Planet Earth, Music of the Mind
 
 #### Sep 8-14: [Racing Mount Pleasant](https://open.spotify.com/album/037axs2AfEPUD5LtjfFYSv?si=0b82816bc6fe46d1) by Racing Mount Pleasant
 - Honorable Mention: [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC?si=63c81e6e28a446be) by Sigur Rós
@@ -244,4 +249,4 @@ Side note: I do not like or support Spotify (concerns include CEO weapons invest
 * Favorite tracks: Young Man, Do Nothing, Y 
 
 
-_Published June 10, 2025 | Last updated September 15, 2025_
+_Published June 10, 2025 | Last updated September 29, 2025_
