@@ -20,7 +20,7 @@ Side note: I do not like or support Spotify (concerns include CEO weapons invest
 
 #### Oct 13-19: [Da Lama Ao Caos](https://open.spotify.com/album/0W6hOSkA2g1BAXvwHUw7ds?si=3bec0754daa24ca0) by Chico Science & Nação Zumbi
 - Honorable mention: [Frizzle Fry](https://open.spotify.com/album/0bCjsDy7xtSGsKleQXF9ng?si=i6KqdjyuRxi52hOAak5DKg) by Primus
-- Funky Brazilian rock album with touches of Samba laden throughout
+- Funky and danceable Brazilian rock album with some hints of metal throughout
 - I should probably stop go back to selecting albums with lyrics we can both understand well
 - Favorite tracks: De Lama ao Caos, A Praiera, Banditismo por uma Questão de Classe, A Cidade
 
