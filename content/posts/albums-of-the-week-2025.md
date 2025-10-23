@@ -16,7 +16,32 @@ With a few exceptions, the selected albums aren't necessarily my favorite new re
 
 I hope you enjoy reading this and consider listening to some of the albums I selected.
 
-Side note: I do not like or support Spotify (concerns include CEO weapons investments, AI support, and poor artist pay). I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway.
+Side note: I do not like or support Spotify (concerns include CEO weapons investments, AI support, and poor artist pay). I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway. *If you are a member of my family reading this, talk to me about the possibility of switching to Tidal.*
+
+#### Oct 13-19: [Da Lama Ao Caos](https://open.spotify.com/album/0W6hOSkA2g1BAXvwHUw7ds?si=3bec0754daa24ca0) by Chico Science & Nação Zumbi
+- Honorable mention: [Frizzle Fry](https://open.spotify.com/album/0bCjsDy7xtSGsKleQXF9ng?si=i6KqdjyuRxi52hOAak5DKg) by Primus
+- Funky Brazilian rock album with touches of Samba laden throughout
+- I should probably stop go back to selecting albums with lyrics we can both understand well
+- Favorite tracks: De Lama ao Caos, A Praiera, Banditismo por uma Questão de Classe, A Cidade
+
+
+#### Oct 6-12: [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81?si=B5QwISOASYKtmbuSjC9V-Q) by Natalia Lafourcade
+- Honorable mention: [Crumbling](https://open.spotify.com/album/0p4awV64ILfveFGtZBsaAD?si=cbb2364e138d4a5f) by Mid-Air Thief
+- Mexican singer who has jumped a lot between genres and styles but felt very natural in a Latin jazz style with some bossa nova influence
+- Lyrical themes meshed with well calm and cozy instrumentals and vocal delivery (for example how can you not adore a Mexican woman singing a song of encouragement directed at a hummingbird)
+- Favorite tracks: Pajarito colibrí, El lugar correcto, De todas las flores, Mi manera de querer, Caminar bonito
+
+#### Sep 29-Oct 5: [Avantdale Bowling Club](https://open.spotify.com/album/4rJTVX98bAnFAMfcHmZURM?si=Q7RZ-7kjR5eEdHhdmct0aA) by Avantdale Bowling Club
+- Honorable mention: [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI?si=90fcd774ab7a40be) by Madonna
+- Kiwi rapper Tom Scott impressed me as a storyteller and curator
+- Some of the most avant-garde jazz instrumentation I've heard from a jazz rap album
+- I tend to enjoy jazz rap instrumentation the more raw it gets so this quite tickled my fancy
+- Favorite tracks: Years Gone By, F (R) Iends, Pocket Lint, Home
+
+#### Sep 22-28: [Getting Killed](https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC?si=LSPB5Z2qQHy9YCJgd9KPIA) by Geese
+- New album from an exciting ascending artist
+- Cameron Winter's unique emotion-filled delivery adds a lot of texture to some of the songs
+- Favorite songs: Long Island City Here I Come, Au Pays du Cocaine, Taxes
 
 #### Sep 15-21: [Emergency on Planet Earth](https://open.spotify.com/album/0SeTonJJPjy57LqiCDmeEM?si=44nWkuy5SZqmbwtretfxmg) by Jamiroquai
 - Extremely funky
