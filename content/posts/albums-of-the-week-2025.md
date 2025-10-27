@@ -18,6 +18,13 @@ I hope you enjoy reading this and consider listening to some of the albums I sel
 
 Side note: I do not like or support Spotify (concerns include CEO weapons investments, AI support, and poor artist pay). I would probably switch to Tidal but I am on Spotify's family plan so my hands are tied, and Spotify has some social upside over any other option anyway. *If you are a member of my family reading this, talk to me about the possibility of switching to Tidal.*
 
+#### Oct 20-26: [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR?si=Q7Hy4QASQGS0k9agg73LPg) by M83
+- Honorable Mention: [Holy Water](https://open.spotify.com/album/3PxjhJ8Lj3YE2PodJ1BVIa?si=a2b30c6a66484168) by Hether (new jazzy bedroom pop album)
+- Did you know M83 is just one guy???
+- I really liked the way some of the songs progressed and built up over time
+- Towed the line between electronic rock and post-rock; I was more partial to the post-rock elements as I have grown to enjoy that genre immensely (most apparent in Wait, which I believe is the most streamed post-rock song)
+- Favorite tracks: Wait, Outro, Intro, Midnight City, Claudia Lewis
+
 #### Oct 13-19: [Da Lama Ao Caos](https://open.spotify.com/album/0W6hOSkA2g1BAXvwHUw7ds?si=3bec0754daa24ca0) by Chico Science & Nação Zumbi
 - Honorable mention: [Frizzle Fry](https://open.spotify.com/album/0bCjsDy7xtSGsKleQXF9ng?si=i6KqdjyuRxi52hOAak5DKg) by Primus
 - Funky and danceable Brazilian rock album with some hints of metal throughout
