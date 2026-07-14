@@ -34,20 +34,17 @@ Nowadays, the internet is one of the premier sources of aesthetic inspiration. T
 
 These labeled aesthetics or archetypes can be excellent sources of inspiration since they are generally publicly accepted. On the other hand, they have expectations associated with them, and not everyone enjoys having such expectations placed on them solely based on the way they dress or the media they consume, although I have met people who enjoy toying with people's expectations in this way. 
 
-I believe that we are complex and creative people, and that should reflect in our aesthetics, as opposed to letting them be defined by some archetype we saw online. [^1] Addiitonally, these archetypes often are byproducts of trends, and while trends have value in that they can encapsulate much of the ethos of a particular period of time, I would not want the world to move on from a trend after having molded my identity around that trend. I would want my aesthetics across all spaces of expression to be more associated with my own identity than with any one label. 
+I believe that we are complex and creative people, and that should reflect in our aesthetics, as opposed to letting them be defined by some archetype we saw online. [^1] Addiitonally, these archetypes often are byproducts of trends, and while trends have value in that they can encapsulate much of the ethos of a particular period of time, I would not want the world to move on from a trend after having molded my identity around that trend. I would want my aesthetics across all spaces of expression to be associated more with my own identity than with any one label, which includes the way I decorate my personal spaces.
 
 [^1]: One of many idealistic claims I make in this post.
 
-## Portability
+## Portability and Persistence
 
-When cultivating a personal aesthetic, portability tends to be a concern. I can enjoy the same media and wear the same clothes anywhere in the world, but my decor is confined to (mostly) one place at a time. This mode of thought can lead one to question whether decor is even worth investing in given its limited portability, particularly for people who cannot guarantee living in the same space a year out. 
+When cultivating a personal aesthetic, portability and persistence tend to be a concerns. I can enjoy the same media and wear the same clothes anywhere in the world, but my decor is confined to (mostly) one place at a time, and often for a limited amount of time. This mode of thought can lead one to question whether decor is even worth investing in given its limited portability, particularly for people who cannot guarantee living in the same space a year out, which creates issues of persistence. 
 
-- If I might have to move in a year, why should I even invest in decor?
-    - Decor is not that hard to move unscathed if you think about it for more than a second
-        - Of course there are some exceptions but this is an assumption I made that was pretty trivially overblown in my head
-- If portability is a concern (which it often is to a nonzero degree) then what spaces do we have that persist beyond our one-year leases and non-permanent stints in any given work office?
-    - Your car
-    - Will revisit
+After a little thought, I realized decor is relatively not all that hard to move unscathed. Of course there are some exceptions but the assumption that it is unfeasible to transport my decor from one apartment to another was pretty trivially overblown in my head, so even situations with limited persistence are not dealbreakers. Ultimately, portability and persistence should still be considerations, but there is value to having a piece of your identity tied to one place, even for just a few months.
+
+How do we evaluate the persistence of decor for various personal spaces? If I had a permanent office that I could keep as long as I kept my job, then that would hopefully have high persistence, although a personal permanent office is not a characteristic of my current job. And even if it were, who knows how long their job is going to last. Out of all personal spaces, I would claim that a car is the most persistent for people in situations similar to mine, since they go with us when we move or change jobs, which gives car decor the highest upside from a persistence standpoint.
 
 
 ## Communication of Self
