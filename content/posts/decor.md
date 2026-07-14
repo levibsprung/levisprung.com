@@ -24,9 +24,6 @@ An example of a thing I didn't have much experience with in my upbringing is aes
 
 Eventually, I started to develop aesthetic awareness and identify that putting thought into the way I present myself reflects well in many areas and bolsters my confidence and sense of identity. I never extended those ideas to my personal spaces, which is a primary motivation behind this post, which is, for the most part, me rationalizing decor.
 
-A lot of the concepts I am about to present are on the idealistic side. I do not claim to be anywhere near an expert in decor, aesthetics, or anything of the sort. Many of the points that I am making are probably not too difficult to refute - I will probably find a way to refute them a few months after writing this. 
-
-
 
 ## Aesthetics
 
@@ -37,9 +34,9 @@ Nowadays, the internet is one of the premier sources of aesthetic inspiration. T
 
 These labeled aesthetics or archetypes can be excellent sources of inspiration since they are generally publicly accepted. On the other hand, they have expectations associated with them, and not everyone enjoys having such expectations placed on them solely based on the way they dress or the media they consume, although I have met people who enjoy toying with people's expectations in this way. 
 
-I believe that we are complex and creative people, and that should reflect in our aesthetics, as opposed to letting them be defined by some archetype we saw online. Addiitonally, these archetypes often are byproducts of trends, and while trends have value in that they can encapsulate much of the ethos of a particular period of time, I would not want the world to move on from a trend after having molded my identity around that trend. I would want my aesthetics across all spaces of expression to be more associated with my own identity than with any one label. 
+I believe that we are complex and creative people, and that should reflect in our aesthetics, as opposed to letting them be defined by some archetype we saw online. [^1] Addiitonally, these archetypes often are byproducts of trends, and while trends have value in that they can encapsulate much of the ethos of a particular period of time, I would not want the world to move on from a trend after having molded my identity around that trend. I would want my aesthetics across all spaces of expression to be more associated with my own identity than with any one label. 
 
-
+[^1]: One of many idealistic claims I make in this post.
 
 ## Portability
 
