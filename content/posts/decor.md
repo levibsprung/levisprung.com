@@ -8,39 +8,43 @@ draft: true
 
 ---
 
-Decor
+Some recent realizations about decor, its value, and downstream topics.
 
 ## Rationalization
 
-- I rationalize stuff
-- Throughout upbringing, generally led to prioritize masculine activites or modes of thought
-    - As I grew, I retroactively rationalized these. Following sports as a means to foster connections with other people and share emotions, motivations, and experiences
-- Rationalizing things associated more with femininity took a back seat
-    - Anything related to aesthetics
-    - Maybe aesthetically illiterate as were many boys my age
-        - Well clearly not because why so much RGB and liquid cooling
-- Probably more examples of selective rationalization, but these are the main ones that came to mind
-- Note: many concepts here are idealistic
+Around a week ago, my sister Hava shared an insightful list with me and my parents. The list was entitled "things I know about my brain," and it reinforced my belief that understanding the way our brains work and how they contribute to our needs is conducive to a happier and more intentional life. 
+
+One nugget about my brain that has been at the forefront of my conscience for the past few weeks is how I tend to rationalize most choices I make, even if they may not lend themselves naturally to rationalization. 
+
+An example would be rationalizing my interest in professional sports by identifying it as a means to bolster connections and share common emotional and experiential reference points with others. I have been interested in sports as long as I can remember, and I didn't question this interest throughout my upbringing. After all, why would I feel the need to rationalize my own interests? But as I reached my late teens, my brain began to develop some hyperrational tendencies, likely in part due to heavy exposure to a certain card game I played online. And at a certain point, I began to question my interest in sports, asking myself if it was just the masculine version of astrology, but I countered it with the point I mentioned at the beginning of this paragraph, and concluded my interest in sports was indeed rational.
+
+Ultimately, all of this back-and-forth about whether interest in sports is rational or irrational is pretty useless. Even in my adulthood, I should be able to enjoy simple things without feeling the need to scrutinize them. Of course, none of this is going to stop me from doing so, both for things I have experience with and things I don't. I believe attempting to rationalize things we don't have experience with is a helpful exercise that gives us insight into other perspectives and may lead us to developing interests in areas we may never have thought we would be interested in.
+
+An example of a thing I didn't have much experience with in my upbringing is aesthetic awareness. I never put that much thought or interest into how I presented myself or personalized my living space. Perhaps I, like many boys my age, were aesthetically illiterate, but that wouldn't explain the plethora of RGB gaming peripherals on the market. I didn't give it much thought because I wasn't naturally drawn that way and I never questioned it. I could probably say the same about many other things that are commonly associated more with femininity.
+
+Eventually, I started to develop aesthetic awareness and identify that putting thought into the way I present myself reflects well in many areas and bolsters my confidence and sense of identity. I never extended those ideas to my personal spaces, which is a primary motivation behind this post, which is, for the most part, me rationalizing decor.
+
+A lot of the concepts I am about to present are on the idealistic side. I do not claim to be anywhere near an expert in decor, aesthetics, or anything of the sort. Many of the points that I am making are probably not too difficult to refute - I will probably find a way to refute them a few months after writing this. 
+
+
 
 ## Aesthetics
 
-- Many ways we cultivate aesthetics
-    - The clothes we wear, how we present ourselves in general visually
-    - The music we listen to
-    - The activities we choose to do
-        - "granola boy"
-    - And, the way we decorate our personal spaces
-- Aesthetics don't have to have labels
-    - Labeled aesthetics (or even popularized archetypes of masculinity or femininity) can be helpful for people looking for some inspiration
-        - If they have public traction they are probably deemed reasonable
-        - At the same time this means there are some expectations tied to the aesthetic or archetype
-    - One's personal aesthetic across all spaces of expression would not easily conform to an internetified archetype
-        - Doesn't feel great to be heavily molded by a trend only for the internet to move on from it
-            - Trends have value but they are complicated
-        - We are complex and creative people and that should reflect in how we present ourselves
+
+As mentioned earlier, there are many ways we cultivate aesthetics. The most visible way an aesthetic shows up is in the way we present ourselves visually, including the clothes and accessories we adorn and the way we maintain our hair and the rest of our bodies, and also the way we present ourselves on online spaces. Aesthetics also can show up in the media we consume, perhaps most commonly in the music we take interest in, along with the activities we do. And lastly, they show up in the way we decorate our personal spaces.
+
+Nowadays, the internet is one of the premier sources of aesthetic inspiration. The internet is also more homogenized than our day-to-day interpersonal interactions, which leads to the aesthetics we see on the internet being more homogenized as a result. Many aesthetics on the internet have enough traction to be given their own labels, such as the "granola boy," who is associated with enjoying outdoor activities and listening to indie folk music like perhaps Caamp or Fruit Bats, in addition to having a distinct visual look. 
+
+These labeled aesthetics or archetypes can be excellent sources of inspiration since they are generally publicly accepted. On the other hand, they have expectations associated with them, and not everyone enjoys having such expectations placed on them solely based on the way they dress or the media they consume, although I have met people who enjoy toying with people's expectations in this way. 
+
+I believe that we are complex and creative people, and that should reflect in our aesthetics, as opposed to letting them be defined by some archetype we saw online. Addiitonally, these archetypes often are byproducts of trends, and while trends have value in that they can encapsulate much of the ethos of a particular period of time, I would not want the world to move on from a trend after having molded my identity around that trend. I would want my aesthetics across all spaces of expression to be more associated with my own identity than with any one label. 
+
 
 
 ## Portability
+
+When cultivating a personal aesthetic, portability tends to be a concern. I can enjoy the same media and wear the same clothes anywhere in the world, but my decor is confined to (mostly) one place at a time. This mode of thought can lead one to question whether decor is even worth investing in given its limited portability, particularly for people who cannot guarantee living in the same space a year out. 
+
 - If I might have to move in a year, why should I even invest in decor?
     - Decor is not that hard to move unscathed if you think about it for more than a second
         - Of course there are some exceptions but this is an assumption I made that was pretty trivially overblown in my head
@@ -98,10 +102,13 @@ Decor
     - Display of items of personal value (in moderation, and in an orderly manner)
 - Car:
     - Don't really have ideas at the moment. Difficult working with confinements in space and use cases
+    - I've seen a couple successful implementations but I don't have a clear recollection about what made them effective nor how to adapt that to my situation
 
 
 ## Closing thoughts
 
 - uhh idk what I'm gonna put here
-
+- Don't get mad at me and call me performative if I buy a polaroid and start putting polaroids on my wall
+    - I'm just out here displaying items of personal value in my living space. Chill tf out
+- Try to rationalize astrology?
 
