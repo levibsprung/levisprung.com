@@ -56,22 +56,15 @@ Ultimately, if we are never comfortable sharing our spaces with others, or all o
 
 ## Communication of Self
 
+Now that we've gotten presentability out of the way, we can consider the situation of sharing our spaces with others. In this situation, our spaces are inevitably going to communicate something to our guests about ourselves. 
 
+We should keep this fact in mind when we cultivate our spaces, although a key distinction from how we present ourselves is that they are very rarely someone's first impression of us. Thus, we should aim to create a space which we feel happy and comfortable sharing with others, while also representing our identities in some ways. 
 
-- We want our spaces to be presentable to other people
-- Our spaces inevitably are going to communicate something to people who find themselves present in them
-- We should feel happy and comfortable sharing our spaces with other people
-- Revisiting car vs living space decor
-    - Do we spend more waking hours in our living spaces or our cars?
-    - Do we share our living spaces or our cars with other people more?
-        - Probably our living spaces for both, but what if we just confine it to our bedrooms?
-    - Do we have more long-term guarantee of possession for our living spaces or our cars?
-        - Depends, but for me I would say my car
-    - What if I don't have a car?
-        - If your life doesn't depend on having a car and you don't have one, then good for you.
-        - If your life does depend on having a car and yet you don't have one, then I hope that gets rectified for you.
-    - Car decor should be a greater consideration
-- Probably some other point
+This is another axis to evaluate car decor on. I can't speak to everyone's experiences, but I've definitely shared my car with more people than I have my bedroom, at least as long as I've had a car. This gives more credence to the idea that we should probably put more thought into the way we decorate our cars.
+
+It is worth noting that the set of people who have seen my bedroom is mostly a subset of the people who have been in my car, which could suggest the idea of disseminating different layers of my identity in the two spaces, so that they learn something about me from my car and something else about me from my bedroom.
+
+I've been talking about car decor a decent amount at this point, so I think it's worth acknowledging and shouting out my carless readers. I commend those of you who are capable of living lives without depending on a car.
 
 
 ## Home
