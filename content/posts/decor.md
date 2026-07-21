@@ -46,7 +46,17 @@ How does persistence compare across various personal spaces? If I had a permanen
 
 [^2]: Sample size is 1 and counting (me)
 
+## Presentability
+
+When evaluating personal spaces, a good place to start is presentability. I like thinking about a baseline of presentability, above which I would feel comfortable sharing a space with others. If a space is in enough disarray to be below this threshold, it can have subconscious impacts on ourselves when we spend time in the space, and the disarray is at risk of exacerbating. 
+
+This baseline is based on our motivation and capacity to improve presentability, along with our perceptions of others' expectations of us, both of which have some inherent volatility. This concept of a baseline of presentability also apply to personal visual presentation and hygiene.
+
+Ultimately, if we are never comfortable sharing our spaces with others, or all our effort is exerted into reaching this baseline, then decor ceases to be a major consideration. However, putting effort in decor can solve both of these issues assuming we have the requisite capacity, as it increases our motivation to keep our spaces maintained and improves our level of comfort with them. 
+
 ## Communication of Self
+
+
 
 - We want our spaces to be presentable to other people
 - Our spaces inevitably are going to communicate something to people who find themselves present in them
