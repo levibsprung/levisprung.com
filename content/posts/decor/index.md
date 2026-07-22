@@ -17,7 +17,7 @@ One such thing about my brain is that I tend to rationalize most choices I make,
 
 An example would be rationalizing my interest in professional sports by identifying it as a means to bolster connections and share common emotional and experiential reference points with others. I have been interested in sports as long as I can remember, and I didn't question this interest throughout my upbringing. After all, why would I feel the need to rationalize my own interests? But as I reached my late teens, my brain began to develop some hyperrational tendencies, likely in part due to heavy exposure to a certain card game I played online. And at a certain point, I began to wonder whether sports is just the masculine version of astrology, [^1] but I was able to analyze my interest in sports and conclude it was indeed rational.
 
-[^1] I given rationalizing astrology a serious shot but I don't plan on doing so unless someone wants to do it for me.
+[^1]: I given rationalizing astrology a serious shot but I don't plan on doing so unless someone wants to do it for me.
 
 Ultimately, all of this back-and-forth about whether interest in sports is rational or irrational is pretty useless. Even in my adulthood, I should be able to enjoy simple things without feeling the need to scrutinize them. Of course, none of this is going to stop me from scrutinizing things people find interest in, both for things I have experience with and things I don't. I believe attempting to rationalize things we don't have experience with is a helpful exercise that gives us insight into other perspectives and may lead us to developing otherwise unlikely interests.
 
@@ -39,13 +39,13 @@ I believe that we are complex and creative people, and that should reflect in ou
 
 ## Portability and Persistence
 
-When cultivating a personal aesthetic, portability and persistence tend to be a concerns. I can enjoy the same media and wear the same clothes anywhere in the world, but my decor is confined to (mostly) one place at a time, and often for a limited amount of time. These concerns can lead one to question whether decor is even worth investing in. [^2]
+When cultivating a personal aesthetic, portability and persistence tend to be a concerns. I can enjoy the same media and wear the same clothes anywhere in the world, but my decor is confined to (mostly) one place at a time, and often for a limited amount of time. These concerns can lead one to question whether decor is even worth investing in. [^3]
 
 After a little thought, I realized decor is relatively not all that hard to move unscathed. Of course there are some exceptions but the assumption that it is unfeasible to transport my decor from one apartment to another was pretty trivially overblown in my head, so limited persistance is often not a dealbreaker. Ultimately, portability and persistence should still be considerations, but there is value to having a piece of your identity tied to one place, even if it's just for a few months.
 
 How does persistence compare across various personal spaces? If I had a permanent office that I could keep as long as I kept my job, then that would hopefully have high persistence, although a personal permanent office is not a characteristic of my current job. And even if it were, who knows how long their job is going to last. Out of all personal spaces, I would claim that a car is the most persistent for people in situations similar to mine, since they often go with us when we move or change jobs. Perhaps car decor is worth a stronger consideration then.
 
-[^2]: Sample size is 1 and counting (me)
+[^3]: Sample size is 1 and counting (me)
 
 ## Presentability
 
