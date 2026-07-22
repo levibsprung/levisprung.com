@@ -132,5 +132,7 @@ For car decor, I don't really have many ideas. I've had a hard time mentally wor
 
 For all my concepts, particularly the idealistic ones, it is important to not take things to the extreme. We can't expect ourselves to keep our spaces in maximally presentable shape at all times, nor to display only items which provide purely positive aesthetic value. This post is less a set of goals to achieve and more a set of concepts to consider. 
 
+Functionality is also an important factor which I didn't give any attention to in this post. We shouldn't feel the need make significant sacrifices in the functionality and comfort of our living spaces for the sake of aesthetic optimization. 
+
 If anyone wants to talk to me about decor or provide me with inspiration, I am all ears. Due to my limited experience with decor, I am in an extremely impressionable state so I would be eager to discuss ideas.
 
