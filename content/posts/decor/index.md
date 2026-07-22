@@ -97,42 +97,42 @@ The "home“ is gone.
 
 
 
-This poem highlighted to me that tumultuous hometown situations, forced displacement, and trauma associated with a hometown can mar a sense of home. Homesickness is a product of a loss of a sense of home, either a temporary or a permanent loss. The emotions tied to a permanent loss in a sense of home tend to be deeper than those from a temporary loss.
+This poem highlighted to me that tumultuous hometown situations, forced displacement, and trauma associated with a hometown can mar a sense of home. Homesickness results from loss of a sense of home, either a temporary or a permanent loss. The emotions tied to a permanent loss in a sense of home tend to be deeper than those from a temporary loss.
 
-As far as I am aware, I have never suffered from a major permanent loss in sense of home, nor have I ever considered the risk of it. In my experiences with the temporary losses, I've always been able to detach myself from the loss, since the thought that the temporary loss could possibly become permanent did not cross my mind. As a result, I've never experienced major homesickness before.
+As far as I am aware, I have never suffered from a major permanent loss in sense of home, nor have I ever considered the risk of it. In my experiences with the temporary losses, I've always been able to detach myself from the loss, since the thought that it could possibly become permanent did not cross my mind. As a result, I cannot recall a time when I've been meaningfully homesick.
 
-Homesickness isn't a feeling I necessarily *want* to feel, but I believe I can afford to be more aware of what contributes to my personal senses of home and appreciate those sources and the capacity to which they are stable. I can also be more intentional about treating my personal spaces in a manner that cultivates a sense of home, and thus, after a long tangent, I have finally returned back to the original topic of this post.
+Homesickness isn't a feeling I necessarily *want* to feel. I do believe that I can afford to be more aware of what contributes to my personal senses of home, and appreciate those sources and the capacities to which they are stable. I can also be more intentional about treating my personal spaces in a manner that cultivates a sense of home, which finally ties back to the original topic of this post: decor.
 
 
 ## Sense of Home
 
-Decor is a great way to cultivate a sense of home. One of the strongest ways to do so is to display items of personal value to ourselves. These can include items that we closely associate with our identity, core memories, or people or places we love. The display of such items can serve as subconscious reminders of what we value while also contributing to our communication of self. It also improves presentability to increase the proportion of items on display in our spaces which provide us with personal value.
+Decor is a great way to cultivate a sense of home. One of the strongest ways to do so is to display items of personal value. These can include items that we closely associate with our identity, core memories, or people or places we love. The display of such items can serve as subconscious reminders of what we value while also contributing to our communication of self. It also improves presentability to increase the proportion of items of personal value that are displayed in our spaces.
 
-In parallel, we can also take actions to improve our capacity to make strong memories. This is something we can do in general by seeking out novel experiences, but it also applies to our living spaces. We should have access to spaces that we enjoy spending time with people we love, and the most effective way to do that is by making our own living space one of those spaces. 
+In parallel, we can also take actions to improve our opportunity to make strong memories. This is something we can do in general by seeking out novel experiences, but it also applies to our living spaces. We should have access to spaces wherein we enjoy spending time with people we love, and the most effective way to do that is by making our own living space one of those spaces. 
 
-This is naturally going to be a major focus for anyone who has a family or is trying to start one, particularly since these people are living with people they care about strongly. As a young adult, I have mostly had positive experiences with my roommates, and I believe having roommates can provide a beneficial and rewarding social outlet which can help foster a sense of home by increasing the opportunity for positive experiences and memories in our living spaces.
+This is naturally going to be a major focus for anyone who has a family or is trying to start one, particularly since these people are living with people they care about strongly. I am in a different situation as a young adult, so the people I live with are roommates rather than family members. I have mostly had positive experiences with my roommates, and I believe having roommates can provide a beneficial and rewarding social outlet which can foster a sense of home by increasing the opportunity for positive experiences and memories in our living spaces.
 
 
-## Personal ideas
+## Personal Ideas
 
-Part of the reason decor is such a pertinent topic for me is that I just moved into a new apartment - the writing process mostly took place during my first two weeks in my apartment. I have not yet figured out how I am going to decorate my apartment, particularly since it's not something I've really ever done before. 
+Part of the reason decor is such a pertinent topic for me is that I just moved into a new apartment; in fact, the writing process mostly took place during my first two weeks in my apartment. I have not yet figured out how I am going to decorate my apartment, particularly since it's not something I've really ever done before, but I'm approaching it by grouping items into two categories.
 
 My first category is items that generally contribute to a better visual look, without requiring much personal connection, such as lighting, plants, and furniture.
 
 My second category is items that are closely tied to my identity. I think one of the key parts of my identity that I would like to reflect in my spaces is my passion for music. Some ideas here include posters of albums that I connect to, with the three strongest matches currently being Titanic Rising by Weyes Blood, Leviathan by Mastodon, and Either/Or by Elliott Smith. I also would like to have a good collection of CDs and a setup that supports them in my apartment or perhaps in my car as well. Collecting things we are passionate about is a great way to accrue items of personal value. Lastly, I think an instrument is an excellent thing to have on display in a bedroom, both for personal utility and connection to identity.
 
-An extension of this category is mementos. These can take many different forms, but the main ones I have access to right now are my posters and awards from theater, my award from a cappella, and my award from studying abroad. Notably none of these items are those I went out of my way to obtain, so perhaps I would have more at my disposal if I had been more intentional about accruing them. An example of mementos I would like to have are polaroids, since they are great encapsulations of positive memories with people we care about. And don't get mad at me and call me performative if I start doing this. God forbid a man display items of personal value in his living space.
+An extension of this category is mementos. These can take various forms, but the main ones I have access to currently are my posters and awards from theater, my award from a cappella, and my award from studying abroad. Notably none of these items are those I went out of my way to obtain, so perhaps I would have more at my disposal if I had been more intentional about accruing memorable items. An example of mementos I would like to have are polaroids, since they are great encapsulations of positive memories with people we care about. And don't get mad at me and call me performative if I start doing this. God forbid a man display items of personal value in his living space.
 
-For me, visual art falls somewhere between the first and second categories. I am not super passionate about it, but it seems feasible for me to find a piece that I resonate with to display on my wall.
+For me, visual art falls somewhere between the first and second categories. I am not super passionate about it, but it seems feasible for me to find pieces I resonate with in some way and display them on my wall.
 
-For car decor, I don't really have many ideas. I've had a hard time mentally working through the confinements in space and use cases that are inherent to a car. I've seen a couple cars that inspired me in how they were decorated, but I don't have a clear enough recollection of what made them effective, nor how to adapt that knowledge to my situation. I might go on Pinterest to get some ideas but this is something I'll keep thinking about since I am convinced that my car ought to have some sort of aesthetic treatment.
+For car decor, I don't really have many ideas. I've had a hard time mentally working through the confinements in form factor and use cases that are inherent to a car. I've seen a couple cars that inspired me in how they were decorated, but I don't have a clear enough recollection of what in particular made them effective, nor how to adapt that knowledge to my situation. I might go on Pinterest to get some ideas but this is something I'll keep thinking about since I am convinced that my car ought to have some sort of aesthetic treatment.
 
 
-## Closing thoughts
+## Closing Thoughts
 
-For all my concepts, particularly the idealistic ones, it is important to not take things to the extreme. We can't expect ourselves to keep our spaces in maximally presentable shape at all times, nor to display only items which provide purely positive aesthetic value. This post is less a set of goals to achieve and more a set of concepts to consider. 
+For all my concepts, particularly the idealistic ones, it is important to not take things to the extreme. We can't expect ourselves to keep our spaces in maximally presentable shape at all times, nor to exclusively display items which provide purely positive aesthetic value. This post is less a set of goals to achieve and more a set of concepts to consider. 
 
-Functionality is also an important factor which I didn't give any attention to in this post. We shouldn't feel the need make significant sacrifices in the functionality and comfort of our living spaces for the sake of aesthetic optimization. 
+Functionality is also an important factor which I didn't give much attention to in this post. We shouldn't feel the need make significant sacrifices in the functionality and comfort of our living spaces for the sake of aesthetic optimization. 
 
-If anyone wants to talk to me about decor or provide me with inspiration, I am all ears. Due to my limited experience with decor, I am in an extremely impressionable state so I would be eager to discuss ideas.
+Finally, if anyone wants to talk to me about decor or provide me with inspiration, I am all ears. Due to my limited experience with decor, I am in an extremely impressionable state so I would be eager to discuss ideas. 
 
