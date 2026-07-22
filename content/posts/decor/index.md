@@ -3,7 +3,6 @@ title: "Decor"
 date: 2026-07-13
 tags: 
 categories: 
-showToc: true
 draft: true
 
 ---
@@ -68,6 +67,27 @@ I've been talking about car decor a decent amount at this point, so I think it's
 
 
 ## Home
+
+I believe one of the stronger indicators of a sense of home is homesickness. In general, a strong indicator of something providing us value in our lives is if we miss it strongly in its absence. 
+
+The concept of home is extremely complex. We can associate an item, a room, an activity, a person, or a place with home, and everything that we can associate with home has varying levels of persistence and impact. 
+
+{{<figure
+    src="images/heimweh_wonach.png"
+    alt="Heimweh, wonach? A poem by Mascha Kaléko"
+    title="Heimweh, wonach?">}} 
+
+Homesickness, for what?<br>
+
+When I say "homesickness“, I say "dream“.<br>
+Because the old homeland is only barely there.<br>
+When I say homesickness, I mean a lot:<br>
+What long weighed heavy on us in exile.<br>
+We are strangers now in our hometown.<br>
+Only the "sickness“, it stayed.<br>
+The "home“ is gone. 
+
+
 
 - Homesickness
     - I don't really get homesick
