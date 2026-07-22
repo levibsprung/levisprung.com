@@ -15,7 +15,9 @@ Around a week ago, my sister Hava shared an insightful list with me and my paren
 
 One such thing about my brain is that I tend to rationalize most choices I make, even if they may not lend themselves naturally to rationalization. 
 
-An example would be rationalizing my interest in professional sports by identifying it as a means to bolster connections and share common emotional and experiential reference points with others. I have been interested in sports as long as I can remember, and I didn't question this interest throughout my upbringing. After all, why would I feel the need to rationalize my own interests? But as I reached my late teens, my brain began to develop some hyperrational tendencies, likely in part due to heavy exposure to a certain card game I played online. And at a certain point, I began to wonder whether sports is just the masculine version of astrology, but I was able to analyze my interest in sports and conclude it was indeed rational.
+An example would be rationalizing my interest in professional sports by identifying it as a means to bolster connections and share common emotional and experiential reference points with others. I have been interested in sports as long as I can remember, and I didn't question this interest throughout my upbringing. After all, why would I feel the need to rationalize my own interests? But as I reached my late teens, my brain began to develop some hyperrational tendencies, likely in part due to heavy exposure to a certain card game I played online. And at a certain point, I began to wonder whether sports is just the masculine version of astrology, [^1] but I was able to analyze my interest in sports and conclude it was indeed rational.
+
+[^1] I given rationalizing astrology a serious shot but I don't plan on doing so unless someone wants to do it for me.
 
 Ultimately, all of this back-and-forth about whether interest in sports is rational or irrational is pretty useless. Even in my adulthood, I should be able to enjoy simple things without feeling the need to scrutinize them. Of course, none of this is going to stop me from scrutinizing things people find interest in, both for things I have experience with and things I don't. I believe attempting to rationalize things we don't have experience with is a helpful exercise that gives us insight into other perspectives and may lead us to developing otherwise unlikely interests.
 
@@ -31,9 +33,9 @@ People can cultivate aesthetics in many ways. The most visible way an aesthetic 
 
 Nowadays, the internet is one of the premier sources of aesthetic inspiration. The homogeneity of the internet leads to the spread of labeled aesthetics or archetypes. These can be excellent sources of inspiration since they are generally publicly accepted, although they also have expectations associated with them. Not everyone enjoys having such expectations placed on them solely based on the way they dress or the media they consume, but I have met people who enjoy toying with people's expectations in this way. 
 
-I believe that we are complex and creative people, and that should reflect in our aesthetics, as opposed to letting them be defined by some archetype we saw online. [^1] Additonally, these archetypes often are byproducts of trends, and while trends have value in that they can encapsulate the ethos of a particular era, I would not want the world to move on from a trend after having molded my identity around it. I would want my aesthetics across all spaces of expression, including decor, to be associated more with my own identity than with any one label.
+I believe that we are complex and creative people, and that should reflect in our aesthetics, as opposed to letting them be defined by some archetype we saw online. [^2] Additonally, these archetypes often are byproducts of trends, and while trends have value in that they can encapsulate the ethos of a particular era, I would not want the world to move on from a trend after having molded my identity around it. I would want my aesthetics across all spaces of expression, including decor, to be associated more with my own identity than with any one label.
 
-[^1]: One of many idealistic claims I make in this post.
+[^2]: One of many idealistic claims I make in this post.
 
 ## Portability and Persistence
 
@@ -66,11 +68,14 @@ It is worth noting that the set of people who have seen my bedroom is mostly a s
 I've been talking about car decor a decent amount at this point, so I think it's worth acknowledging and shouting out my carless readers. I commend those of you who are capable of living lives without depending on a car.
 
 
-## Home
+## Homesickness
 
 I believe one of the stronger indicators of a sense of home is homesickness. In general, a strong indicator of something providing us value in our lives is if we miss it strongly in its absence. 
 
 The concept of home is extremely complex. We can associate an item, a room, an activity, a person, or a place with home, and everything that we can associate with home has varying levels of persistence and impact. 
+
+My friend Anna sent me a poem about homesickness that stuck with me, along with a rough translation. It was written by Mascha Kaléko, a Jewish German-language poet, in the 1960s. It is titled "Heimweh, wonach?" which translates approximately to "Homesickness, for what?"
+
 
 {{<figure
     src="images/heimweh_wonach.png"
@@ -87,44 +92,45 @@ We are strangers now in our hometown.<br>
 Only the "sickness“, it stayed.<br>
 The "home“ is gone. 
 
+(Translation by Anna Schönborn)
 
 
-- Homesickness
-    - I don't really get homesick
-    - (insert German poem about homesickness)
-    - If we don't feel strongly about losing or being deprived of something, perhaps we didn't value it enough in the first place
-- Cultivating a sense of home
-    - Disseminate items of personal value into our spaces (there's a good verb for this but idk if it's disseminate)
-    - Make the space comfortable for us, and desirable for us to spend time in and relax in, and share with other people
-    - In parallel, take actions which maximize the capacity to make strong memories (in general, but also in your living space)
-        - Living with friends or family fosters a sense of home   
-- Equilibrium
-    - Having some equilibrium that we are comfortable with motivates us to avoid straying from that equilibrium heavily
-        - Less messy room time
-        - More thought into what is displayed
-    - Important not to take this to the extreme
-        - We can't expect ourselves to keep our spaces in maximally presentable shape at all times
-        - I believe personally that there is a baseline of presentability that I strive to never dip below
 
+
+This poem highlighted to me that tumultuous hometown situations, forced displacement, and trauma associated with a hometown can mar a sense of home. Homesickness is a product of a loss of a sense of home, either a temporary or a permanent loss. The emotions tied to a permanent loss in a sense of home tend to be deeper than those from a temporary loss.
+
+As far as I am aware, I have never suffered from a major permanent loss in sense of home, nor have I ever considered the risk of it. In my experiences with the temporary losses, I've always been able to detach myself from the loss, since the thought that the temporary loss could possibly become permanent did not cross my mind. As a result, I've never experienced major homesickness before.
+
+Homesickness isn't a feeling I necessarily *want* to feel, but I believe I can afford to be more aware of what contributes to my personal senses of home and appreciate those sources and the capacity to which they are stable. I can also be more intentional about treating my personal spaces in a manner that cultivates a sense of home, and thus, after a long tangent, I have finally returned back to the original topic of this post.
+
+
+## Sense of Home
+
+Decor is a great way to cultivate a sense of home. One of the strongest ways to do so is to display items of personal value to ourselves. These can include items that we closely associate with our identity, core memories, or people or places we love. The display of such items can serve as subconscious reminders of what we value while also contributing to our communication of self. It also improves presentability to increase the proportion of items on display in our spaces which provide us with personal value.
+
+In parallel, we can also take actions to improve our capacity to make strong memories. This is something we can do in general by seeking out novel experiences, but it also applies to our living spaces. We should have access to spaces that we enjoy spending time with people we love, and the most effective way to do that is by making our own living space one of those spaces. 
+
+This is naturally going to be a major focus for anyone who has a family or is trying to start one, particularly since these people are living with people they care about strongly. As a young adult, I have mostly had positive experiences with my roommates, and I believe having roommates can provide a beneficial and rewarding social outlet which can help foster a sense of home by increasing the opportunity for positive experiences and memories in our living spaces.
 
 
 ## Personal ideas
 
-- Home:
-    - Lighting
-    - Music
-        - Album art, artist posters, CDs
-    - Plants
-    - Display of items of personal value (in moderation, and in an orderly manner)
-- Car:
-    - Don't really have ideas at the moment. Difficult working with confinements in space and use cases
-    - I've seen a couple successful implementations but I don't have a clear recollection about what made them effective nor how to adapt that to my situation
+Part of the reason decor is such a pertinent topic for me is that I just moved into a new apartment - the writing process mostly took place during my first two weeks in my apartment. I have not yet figured out how I am going to decorate my apartment, particularly since it's not something I've really ever done before. 
+
+My first category is items that generally contribute to a better visual look, without requiring much personal connection, such as lighting, plants, and furniture.
+
+My second category is items that are closely tied to my identity. I think one of the key parts of my identity that I would like to reflect in my spaces is my passion for music. Some ideas here include posters of albums that I connect to, with the three strongest matches currently being Titanic Rising by Weyes Blood, Leviathan by Mastodon, and Either/Or by Elliott Smith. I also would like to have a good collection of CDs and a setup that supports them in my apartment or perhaps in my car as well. Collecting things we are passionate about is a great way to accrue items of personal value. Lastly, I think an instrument is an excellent thing to have on display in a bedroom, both for personal utility and connection to identity.
+
+An extension of this category is mementos. These can take many different forms, but the main ones I have access to right now are my posters and awards from theater, my award from a cappella, and my award from studying abroad. Notably none of these items are those I went out of my way to obtain, so perhaps I would have more at my disposal if I had been more intentional about accruing them. An example of mementos I would like to have are polaroids, since they are great encapsulations of positive memories with people we care about. And don't get mad at me and call me performative if I start doing this. God forbid a man display items of personal value in his living space.
+
+For me, visual art falls somewhere between the first and second categories. I am not super passionate about it, but it seems feasible for me to find a piece that I resonate with to display on my wall.
+
+For car decor, I don't really have many ideas. I've had a hard time mentally working through the confinements in space and use cases that are inherent to a car. I've seen a couple cars that inspired me in how they were decorated, but I don't have a clear enough recollection of what made them effective, nor how to adapt that knowledge to my situation. I might go on Pinterest to get some ideas but this is something I'll keep thinking about since I am convinced that my car ought to have some sort of aesthetic treatment.
 
 
 ## Closing thoughts
 
-- uhh idk what I'm gonna put here
-- Don't get mad at me and call me performative if I buy a polaroid and start putting polaroids on my wall
-    - I'm just out here displaying items of personal value in my living space. Chill tf out
-- Try to rationalize astrology?
+For all my concepts, particularly the idealistic ones, it is important to not take things to the extreme. We can't expect ourselves to keep our spaces in maximally presentable shape at all times, nor to display only items which provide purely positive aesthetic value. This post is less a set of goals to achieve and more a set of concepts to consider. 
+
+If anyone wants to talk to me about decor or provide me with inspiration, I am all ears. Due to my limited experience with decor, I am in an extremely impressionable state so I would be eager to discuss ideas.
 
