@@ -11,7 +11,7 @@ Some recent realizations about decor, its value, and downstream topics.
 
 ## Rationalization
 
-Around a week ago, my sister Hava shared an insightful list with me and my parents. The list was entitled "things I know about my brain," and it reinforced my belief that understanding the way our brains work and how they contribute to our needs is conducive to a happier and more intentional life. 
+Around a week ago, my sister Hava shared an insightful list with me and my parents. The list was entitled "things I know about my brain", and it reinforced my belief that understanding the way our brains work and how they contribute to our needs is conducive to a happier and more intentional life. 
 
 One such thing about my brain is that I tend to rationalize most choices I make, even if they may not lend themselves naturally to rationalization. 
 
