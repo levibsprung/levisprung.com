@@ -82,17 +82,17 @@ My friend Anna sent me a poem about homesickness that stuck with me, along with 
     alt="Heimweh, wonach? A poem by Mascha Kaléko"
     title="Heimweh, wonach?">}} 
 
-Homesickness, for what?<br>
+*Homesickness, for what?*
 
-When I say "homesickness“, I say "dream“.<br>
-Because the old homeland is only barely there.<br>
-When I say homesickness, I mean a lot:<br>
-What long weighed heavy on us in exile.<br>
-We are strangers now in our hometown.<br>
-Only the "sickness“, it stayed.<br>
-The "home“ is gone. 
+*When I say "homesickness“, I say "dream“.\
+Because the old homeland is only barely there.\
+When I say homesickness, I mean a lot:\
+What long weighed heavy on us in exile.\
+We are strangers now in our hometown.\
+Only the "sickness“, it stayed.\
+The "home“ is gone.*
 
-(Translation by Anna Schönborn)
+*(Translation by Anna Schönborn)*
 
 
 

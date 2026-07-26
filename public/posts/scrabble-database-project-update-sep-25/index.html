@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title>Project Update: Scrabble Database | Levi Sprung</title>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="description" content="An update on my Scrabble board traceback and database project which I have been working on throughout the summer.">
+<meta name="generator" content="Hugo 0.164.0">
+
+
+  <META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+
+
+
+
+
+
+  </head>
+
+  <body>
+    <nav class="navigation">
+	
+		<a href="/"> <span class="arrow">←</span>Home</a>
+	
+	<a href="/posts">Archive</a>
+	<a href="/tags">Tags</a>
+	<a href="/about">About</a>
+
+	
+
+	
+</nav>
+
+
+    <main class="main">
+      
+
+<section id="single">
+    <h1 class="title">Project Update: Scrabble Database</h1>
+
+    <div class="tip">
+        <time datetime="2025-09-17 00:00:00 &#43;0000 UTC">Sep 17, 2025</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          2316 words
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          11 minute read
+        </span>
+    </div>
+
+    
+    
+
+
+    <div class="content">
+      <p>An update on my Scrabble board traceback and database project which I have been working on throughout the summer.</p>
+<h2 id="contents">Contents <a href="#contents" class="anchor">🔗</a></h2><ul>
+<li>Project Overview</li>
+<li>Motivation and Background</li>
+<li>Scoring and Traceback</li>
+<li>Computer Vision</li>
+<li>Next Steps</li>
+</ul>
+<h2 id="project-overview">Project Overview <a href="#project-overview" class="anchor">🔗</a></h2><p>This project aims to allow users to take a photo of a Scrabble board with an already completed game, upload it, and look at the game move by move. It uses computer vision to determine the contents of the board, uses a traceback algorithm to generate all possible ways the game could have been played and asks the user to choose one (if more than one exists), and uploads the game to the database for the user to view. Currently, I only have the traceback algorithm and the computer vision completed—I will work on the remaining components in the future.</p>
+<h2 id="motivation">Motivation <a href="#motivation" class="anchor">🔗</a></h2><p>As far as my interests in games go, Scrabble is the one which goes back the farthest. When I was around 6 years old, my older sister started attending a book club with a group of families, where one parent for each family would participate along with the involved children. The other parents would play Scrabble during the meetings, and I would join my dad to watch him play. After not too long, I started playing by myself and getting invested in the strategy of the game. I eventually started learning important words, notably memorizing all 2-letter words. To this day, Scrabble is the most commonly played game in my family, and nowadays we play it almost every time I see my parents.</p>
+<p>Last spring, I decided to participate in the BlasterHacks Hackathon at Colorado School of Mines. However, since I had a Saint Motel concert Saturday evening and wanted to accrue a semi-regular amount of sleep, I opted to work solo and not take the Hackathon extremely seriously. My main goal was to start a project since I wanted to have a project to work on in my spare time throughout the rest of the year.</p>
+<p>I generally don&rsquo;t have the spare time and energy for side projects due to classes, extracurriculars, and poor time management, but I figured that since the hardest part is starting, it would be easier if I had an in progress project already. Ultimately, my workload ended up being too heavy to spend any more time on it throughout the remainder of the semester, but it was worth a try. I had a few ideas, but this Scrabble database was the one which came out on top, so I put on some Miles Davis and got to work.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/exampleGame.jpg"
+			alt="A Scrabble board containing a completed game"><figcaption>
+			<h4>The primary Scrabble game I referenced and tested with</h4>
+		</figcaption>
+</figure>
+
+<h2 id="scoring-and-traceback">Scoring and Traceback <a href="#scoring-and-traceback" class="anchor">🔗</a></h2><h4 id="scoring-algorithm">Scoring Algorithm <a href="#scoring-algorithm" class="anchor">🔗</a></h4><p>The first component I worked on was the Scrabble scoring algorithm. Many people had already done this before, but I figured it would be enjoyable to implement myself, so I spent the entirety of my time at BlasterHacks working on this and completing it.</p>
+<p>The first step was to develop standards for storing a Scrabble game. I tried to find existing standards on online Scrabble sites such as <a href="https://playscrabble.com/" target="_blank" rel="noopener">playscrabble.com</a> but I couldn&rsquo;t find such a standard, so I made one myself. I opted to use a csv file to represent the grid, with empty spaces represented by &lsquo;x&rsquo; and blanks represented by &lsquo;_&rsquo;. For the board layout, I would use numbers to represent word score multipliers and lowercase letters to represent the starting square along with letter score multipliers.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/gameCsv.png"
+			alt="A screenshot of a csv file containing a completed Scrabble game"><figcaption>
+			<h4>An example of a completed Scrabble game as a csv</h4>
+		</figcaption>
+</figure>
+
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/boardLayout.png"
+			alt="A screenshot of a csv file containing the Scrabble board layout"><figcaption>
+			<h4>The Scrabble board layout as a csv</h4>
+		</figcaption>
+</figure>
+
+<p>After developing the file formats, I wrote the algorithm. The main complexities come from perpendicular words, which must be counted as well; however, multipliers only apply activate from newly placed tiles. Given this information, the algorithm can be two parts: the first part counts the entire play, and the second part counts a word. Essentially, the first part (the count play function) checks tiles adjacent to tiles played, and upon finding adjacencies, counts the value of the perpendicular words using the second part (the count word function) and sums the result.</p>
+<h4 id="traceback">Traceback <a href="#traceback" class="anchor">🔗</a></h4><p>For the traceback algorithm, I used a recursive function which searches for all possible moves that could have been played from each tile already on the board and selects the moves that match the target score. The move search function uses what I called an <em>anti-board</em> to find possible moves, which is basically the completed board minus the current board. It is also a recursive function since words played parallel to the initial square must also be considered, although the max recursion depth required for it is 2.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/tracebackDemo.png"
+			alt="A screenshot of the output of the traceback algorithm"><figcaption>
+			<h4>A demo of the traceback for the above game (two possibilities)</h4>
+		</figcaption>
+</figure>
+
+<h2 id="computer-vision">Computer Vision <a href="#computer-vision" class="anchor">🔗</a></h2><p>This is the part that required the most time and brain power from me. I first had to detect the location of the tiles and then identify the tiles, including the blank tiles, which would require an additional step. Since I didn&rsquo;t particularly want to do the entire computer vision process myself, I looked for other people&rsquo;s projects which achieved similar things and found two of note.</p>
+<p>The first project was an <a href="https://github.com/jheidel/scrabble-opencv" target="_blank" rel="noopener">automated Scrabble scorekeeper by jheidel</a> which used opencv to keep track of the board from 2012. There were some components which I used, such as the tile center calculations and the blank finding algorithm, but it required the user to add markers to boards to detect the grid, and I felt I could do better.</p>
+<p>The second project was a <a href="https://github.com/carson920/uwu/" target="_blank" rel="noopener">Scrabble board image analyzer by carson920</a> which used a Hough transform to detect gridlines. This approach seemed better to me so I adopted it with a few modifications which I will cover soon.</p>
+<h4 id="grid-detection">Grid Detection <a href="#grid-detection" class="anchor">🔗</a></h4><p>The first task was to detect the locations of the tiles, which requires the locations of the corners of the board. This process was extremely iterative for me and I tried a lot of approaches before settling on a final one. I will outline those approaches and my conclusions.</p>
+<ol>
+<li>ArUco markers</li>
+</ol>
+<p>My first approach was to have the user place markers on the corners of the board when uploading the image and have the user detect them. ArUco markers are the most accurate for that, and it works pretty well, but I didn&rsquo;t want to settle for requiring the user input to determine the locations of the corners.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/arUcoDemo.png"
+			alt="Scrabble board corner detection with ArUco markers"><figcaption>
+			<h4>ArUco marker demo</h4>
+		</figcaption>
+</figure>
+
+<ol start="2">
+<li>Color masks</li>
+</ol>
+<p>My next approach was to use the colors of the tiles to detect their locations directly. The implications behind this approach working are substantial: I wouldn&rsquo;t have to look at the rest of the board when classifying letters and blank detection would be trivial. Unfortunately, it is hard to create a good color mask that is board agnostic and resistant to lighting differences, but it was worth attempting.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/tileContourDemo.png"
+			alt="Scrabble board tile contour detection using a color mask"><figcaption>
+			<h4>Tile color contour demo</h4>
+		</figcaption>
+</figure>
+
+<p>I also tried to use the color of the board for a mask, with the idea of drawing a bounding box around the board and recording the corners of the box. However, I encountered a massive issue with these sorts of color-reliant approaches: some boards have very little difference between the tile color and the board counter, so I had to scrap these approaches if I wanted to shoot for cross-board compatibility.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/boardContourDemo.png"
+			alt="Scrabble board contour detection using a color mask for the board"><figcaption>
+			<h4>Board color contour demo</h4>
+		</figcaption>
+</figure>
+
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/badBoard.png"
+			alt="Scrabble board with similar tile and board colors"><figcaption>
+			<h4>Board that is hard to use color masks with</h4>
+		</figcaption>
+</figure>
+
+<ol start="3">
+<li>Gridline Detection</li>
+</ol>
+<p>The third approach I invested significant time into was Hough transforms for grid detection, which is an idea I got from carson920&rsquo;s project. I was able to generate pretty good gridlines for my board using the Hough transform, but using these lines to determine the corner locations would be tougher.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/gridlineDemo.png"
+			alt="Scrabble board with detected gridlines from Hough transform"><figcaption>
+			<h4>Hough transform gridlines demo</h4>
+		</figcaption>
+</figure>
+
+<p>carson920&rsquo;s code used the vertical and horizontal lines to create the top 3 grids, but I wasn&rsquo;t sure how to select the best of the three. In the image below, there are three predictions for the right corners, with the innermost one being correct. I couldn&rsquo;t find a general metric that would work on this image, so I tried to then look at modifying the Hough transform itself.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/gridPrediction1.png"
+			alt="Scrabble board with three corner predictions (one of which is correct)"><figcaption>
+			<h4>Hough transform original gridline predictions</h4>
+		</figcaption>
+</figure>
+
+<p>I created my own Hough lines function, with the goal of generating gridlines that would mostly lie either on the boundary of the board or along the gridlines of the board itself. I&rsquo;m still not sure exactly how carson920&rsquo;s line detection works, but mine seemed to do a better job detecting the gridlines within the board. I could then compare these detected gridlines with the predicted corners from the first part and use whichever corners had the smallest error. Below are the three possible boards with similarity scores to the detected gridlines in the top left corner.</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/grid1.png"
+			alt="First grid prediction (score = 0.527)"><figcaption>
+			<h4>First grid prediction (score = 0.527)</h4>
+		</figcaption>
+</figure>
+
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/grid2.png"
+			alt="Second grid prediction (score = 0.402)"><figcaption>
+			<h4>Second grid prediction (score = 0.402)</h4>
+		</figcaption>
+</figure>
+
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/grid3.png"
+			alt="Third grid prediction (score = 0.355)"><figcaption>
+			<h4>Third grid prediction (score = 0.355)</h4>
+		</figcaption>
+</figure>
+
+<p>This metric is able to accurately select the corners of the board. I tested it on one other board and it was successful there as well.</p>
+<h4 id="letter-detection">Letter Detection <a href="#letter-detection" class="anchor">🔗</a></h4><p>The last component that I worked on this summer was letter detection. This also was an iterative process which required multiple approaches and plenty of trial and error, with the final result literally involving trial and error. There were a few approaches I dismissed quickly before settling on OCR as my path forward.</p>
+<p>At first, I tried to use a letter model which jheidel&rsquo;s project used, but this requires training a model for each board used, which is simply not scalable. I then tried to use the template feature OpenCV has, but this was inaccurate. I admittedly could&rsquo;ve tried to optimize templates further but I wanted to try OCR before trying to improve templates.</p>
+<p>The two main OCR libraries for Python are pytesseract and easyocr. At first, easyocr was more accurate, but pytesseract felt more configurable. After using jheidel&rsquo;s code to crop the board into an image for each square in the grid, I could use pytesseract configs to look for only one character, which improved accuracy dramatically, although I was still having some issues, mostly with &lsquo;I&rsquo; and &lsquo;O&rsquo; tiles.</p>
+<p>From here, the main tinkering I was able to do lied in image preprocessing. Erosion and dilation are typical preprocessing steps for text detection, but those alone could not do the job. Perhaps the most important preprocessing step was one that I thought of myself, which was getting the connected components of the black and white tile image and removing connected components that were either too small or too large. This resulted in all of the squares either being all black, only the letter, or in rare cases the letter and the tile value. This removed plenty of noise, although the &lsquo;I&rsquo; tiles were still only being predicted correctly half the time, even when including similar characters such as &rsquo;l&rsquo;, &lsquo;i&rsquo;, &lsquo;1&rsquo;, &lsquo;!&rsquo;, and &lsquo;|&rsquo; as possibilities.</p>
+<p>My last step was erosion and dilation. If I could erode and dilate the &lsquo;I&rsquo; tiles enough, the image would remain with only a narrow white rectangle, which pytesseract would be able to predict correctly pretty much always. However, this didn&rsquo;t solve the inconsistencies that occurred with &lsquo;O&rsquo; tiles, even making these tile predictions less accurate.</p>
+<p>For &lsquo;O&rsquo; tiles, performing more erosion and less dilation would do the trick. Making the &lsquo;O&rsquo; lettering on the tile extremely thin resulted in pytesseract correctly classifying all 8 tiles on the whole board.</p>
+<p>Since different preprocessings worked for different tiles, I would have to employ a trial and error approach. I would create four tile images, have pytesseract try to detect a character from all of them in order, and yield the first one that doesn&rsquo;t read an empty string. Because the connected component removal handled most of the noise, I could theoretically add even more preprocessings for it to try in case I run into issues on other boards without risk of classifying non-letter squares.</p>
+<p>The last component was blank finding. For finding blank tiles, I essentially copied jheidel&rsquo;s code with minimal changes, which was a two-step approach. The first step identifies all the non-letter squares on the board and records the mean color. The second step compares the color of the tile to all other non-letter squares and records any above a certain threshold. The code originally only compared the color of the tile to the nearest 10 or so squares, but I didn&rsquo;t see any issue with comparing to all non-letter squares. This change resulted in successful finding of the blank tiles, which meant that my code could successfully identify every tile and its location on the board (n=1).</p>
+<figure><img src="/posts/scrabble-database-project-update-sep-25/images/blankDemo.png"
+			alt="Board with green and red numbers representing confident and unconfident/inconclusive blank predictions"><figcaption>
+			<h4>Blank tile prediction (green numbered tiles = predicted)</h4>
+		</figcaption>
+</figure>
+
+<h2 id="next-steps">Next Steps <a href="#next-steps" class="anchor">🔗</a></h2><p>Now that I have all the algorithmic and CV-related components done, all I have left to do is to clean up and integrate my current code and create a user interface. I am hoping to make this in the form of a website, with which I will use Svelte, since it seems like a good choice for my first framework. I also will need to set up a database, which I plan to use SQLite for.</p>
+<p>The user interface may have a few complications, mostly because my computer vision could mess up, and I want to give the user the opportunity to correct such mistakes by directly editing the detected grid. In general, giving the user the ability to edit their game data seems beneficial.</p>
+<p>Overall, I don&rsquo;t think this project will be super useful since it is hard to analyze a game without access to the players&rsquo; hands, although it could be nice to show someone a game you played and show off your amazing word or move to someone else. Nonetheless, I still thoroughly enjoyed thinking about this project and developing it, and I learned plenty throughout the process.</p>
+<p>I hope to have more updates on this project within the next year, but for now I hope you enjoyed seeing what I&rsquo;ve been working on.</p>
+    </div>
+
+    
+        <div class="tags">
+            
+                <a href="https://levisprung.com/tags/scrabble">Scrabble</a>
+            
+                <a href="https://levisprung.com/tags/code">Code</a>
+            
+        </div>
+    
+    
+    
+
+</section>
+
+
+    </main>
+    
+    <footer id="footer">
+    
+        <div id="social">
+
+
+    <a class="symbol" href="mailto:levibsprung@gmail.com" rel="me" target="_blank">
+        
+        <svg fill="var(--icon-background)" width="28" height="28" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin">
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Social-Icons---Rounded-Black" transform="translate(-264, -939)">
+<g id="email" transform="translate(264, 939)">
+<path d="M8,72 L64,72 C68.418278,72 72,68.418278 72,64 L72,8 C72,3.581722 68.418278,-8.11624501e-16 64,0 L8,0 C3.581722,8.11624501e-16 -5.41083001e-16,3.581722 0,8 L0,64 C5.41083001e-16,68.418278 3.581722,72 8,72 Z" id="Rounded" fill="var(--icon-background)"></path>
+<g transform="translate(1,2) scale(2.8)">
+<path d="M2 6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6zm3.519 0L12 11.671 18.481 6H5.52zM20 7.329l-7.341 6.424a1 1 0 0 1-1.318 0L4 7.329V18h16V7.329z" fill="var(--icon-fill)"/>
+		</g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+
+    </a>
+
+    <a class="symbol" href="https://github.com/levibsprung/" rel="me" target="_blank">
+        
+        <svg fill="var(--icon-background)" width="28" height="28"  viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    
+    <title>Github</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Social-Icons---Rounded-Black" transform="translate(-264, -939)">
+            <g id="Github" transform="translate(264, 939)">
+                <path d="M8,72 L64,72 C68.418278,72 72,68.418278 72,64 L72,8 C72,3.581722 68.418278,-8.11624501e-16 64,0 L8,0 C3.581722,8.11624501e-16 -5.41083001e-16,3.581722 0,8 L0,64 C5.41083001e-16,68.418278 3.581722,72 8,72 Z" id="Rounded" fill="var(--icon-background)"></path>
+                <path d="M35.9985,13 C22.746,13 12,23.7870921 12,37.096644 C12,47.7406712 18.876,56.7718301 28.4145,59.9584121 C29.6145,60.1797862 30.0525,59.4358488 30.0525,58.7973276 C30.0525,58.2250681 30.0315,56.7100863 30.0195,54.6996482 C23.343,56.1558981 21.9345,51.4693938 21.9345,51.4693938 C20.844,48.6864054 19.2705,47.9454799 19.2705,47.9454799 C17.091,46.4500754 19.4355,46.4801943 19.4355,46.4801943 C21.843,46.6503662 23.1105,48.9634994 23.1105,48.9634994 C25.2525,52.6455377 28.728,51.5823398 30.096,50.9649018 C30.3135,49.4077535 30.9345,48.3460615 31.62,47.7436831 C26.2905,47.1352808 20.688,45.0691228 20.688,35.8361671 C20.688,33.2052792 21.6225,31.0547881 23.1585,29.3696344 C22.911,28.7597262 22.0875,26.3110578 23.3925,22.9934585 C23.3925,22.9934585 25.4085,22.3459017 29.9925,25.4632101 C31.908,24.9285993 33.96,24.6620468 36.0015,24.6515052 C38.04,24.6620468 40.0935,24.9285993 42.0105,25.4632101 C46.5915,22.3459017 48.603,22.9934585 48.603,22.9934585 C49.9125,26.3110578 49.089,28.7597262 48.8415,29.3696344 C50.3805,31.0547881 51.309,33.2052792 51.309,35.8361671 C51.309,45.0917119 45.6975,47.1292571 40.3515,47.7256117 C41.2125,48.4695491 41.9805,49.9393525 41.9805,52.1877301 C41.9805,55.4089489 41.9505,58.0067059 41.9505,58.7973276 C41.9505,59.4418726 42.3825,60.1918338 43.6005,59.9554002 C53.13,56.7627944 60,47.7376593 60,37.096644 C60,23.7870921 49.254,13 35.9985,13" fill="var(--icon-fill)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
+    </a>
+
+    <a class="symbol" href="https://www.linkedin.com/in/levi-sprung" rel="me" target="_blank">
+        
+        <svg width="28" height="28" fill="var(--icon-background)" viewBox="0 0 500 500">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="500" height="500" fill="var(--icon-background)" rx="50"/>
+    <path fill="var(--icon-fill)" d="M154.703 100.183c-19.121 0-34.689 15.565-34.703 34.701 0 19.136 15.568 34.704 34.703 34.704 19.128 0 34.688-15.568 34.688-34.704 0-19.134-15.561-34.701-34.688-34.701zm26.045 83.348h-52.094a4.488 4.488 0 0 0-4.488 4.489v167.675a4.488 4.488 0 0 0 4.488 4.488h52.093a4.49 4.49 0 0 0 4.489-4.488V188.02a4.486 4.486 0 0 0-4.488-4.489zm133.176-1.974c-19.064 0-35.817 5.805-46.04 15.271v-8.808c0-2.48-2.01-4.489-4.489-4.489h-49.971a4.489 4.489 0 0 0-4.489 4.489v167.675a4.488 4.488 0 0 0 4.489 4.488h52.044a4.49 4.49 0 0 0 4.489-4.488v-82.957c0-23.802 4.378-38.555 26.227-38.555 21.526.026 23.137 15.846 23.137 39.977v81.535a4.489 4.489 0 0 0 4.49 4.488h52.068a4.489 4.489 0 0 0 4.488-4.488v-91.977c-.001-38.253-7.553-82.161-66.443-82.161z"/>
+  </g>
+</svg>
+
+    </a>
+
+    <a class="symbol" href="https://levisprung.com/index.xml" rel="me" target="_blank">
+        
+        <svg fill="var(--icon-background)" width="28" height="28" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" class="jam jam-spotify">
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Social-Icons---Rounded-Black" transform="translate(-264, -939)">
+<g id="Spotify" transform="translate(264, 939)">
+<path d="M8,72 L64,72 C68.418278,72 72,68.418278 72,64 L72,8 C72,3.581722 68.418278,-8.11624501e-16 64,0 L8,0 C3.581722,8.11624501e-16 -5.41083001e-16,3.581722 0,8 L0,64 C5.41083001e-16,68.418278 3.581722,72 8,72 Z" id="Rounded" fill="var(--icon-background)"></path>
+<g transform="translate(4, 5) scale(4)">
+<path d="M7.30791,2.56296 C8.72424,3.05942 10.0106,3.8683 11.0718,4.92964 C12.1329,5.99098 12.9415,7.27756 13.4377,8.69398 C13.9339,10.1104 14.1049,11.6203 13.938,13.1119 C13.8766,13.6607 13.3819,14.0559 12.833,13.9945 C12.2842,13.9331 11.889,13.4383 11.9504,12.8895 C12.0839,11.6963 11.9471,10.4883 11.5502,9.35519 C11.1532,8.22205 10.5063,7.19279 9.65742,6.34371 C8.80852,5.49464 7.77939,4.84753 6.64633,4.45037 C5.51327,4.0532 4.30535,3.91617 3.11211,4.04943 C2.56324,4.11072 2.0686,3.71546 2.0073,3.16659 C1.94601,2.61772 2.34127,2.12308 2.89014,2.06178 C4.38168,1.89521 5.89159,2.06651 7.30791,2.56296 Z M4,10 C5.10457,10 6,10.8954 6,12 C6,13.1046 5.10457,14 4,14 C2.89543,14 2,13.1046 2,12 C2,10.8954 2.89543,10 4,10 Z M5.72823,6.25428 C6.67781,6.5399 7.5418,7.05641 8.24292,7.75762 C8.94405,8.45883 9.46045,9.32288 9.74595,10.2725 C10.0315,11.2221 10.0771,12.2277 9.87895,13.1993 C9.76856,13.7404 9.24039,14.0896 8.69925,13.9792 C8.15811,13.8688 7.80891,13.3407 7.9193,12.7995 C8.05144,12.1518 8.02098,11.4814 7.83064,10.8483 C7.64031,10.2153 7.29604,9.63922 6.82862,9.17175 C6.36121,8.70427 5.78522,8.35993 5.15216,8.16952 C4.51911,7.97911 3.84874,7.94857 3.20099,8.08062 C2.65984,8.19094 2.13171,7.84168 2.02139,7.30053 C1.91107,6.75938 2.26032,6.23125 2.80148,6.12093 C3.77309,5.92285 4.77866,5.96867 5.72823,6.25428 Z" fill="var(--icon-fill)">/>
+		</g>
+            </g>
+        </g>
+    </g>
+</svg>
+    </a>
+
+    <a class="symbol" href="https://open.spotify.com/user/9c7y9lzudp57ixe94b0ajr3ux?si=e912596ebc36460a" rel="me" target="_blank">
+        
+        <svg fill="var(--icon-background)" width="28" height="28" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin" class="jam jam-spotify">
+<g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+<g id="Social-Icons---Rounded-Black" transform="translate(-264.000000, -939.000000)">
+<g id="Spotify" transform="translate(264.000000, 939.000000)">
+<path d="M8,72 L64,72 C68.418278,72 72,68.418278 72,64 L72,8 C72,3.581722 68.418278,-8.11624501e-16 64,0 L8,0 C3.581722,8.11624501e-16 -5.41083001e-16,3.581722 0,8 L0,64 C5.41083001e-16,68.418278 3.581722,72 8,72 Z" id="Rounded" fill="var(--icon-background)"></path>
+<g transform="translate(7, 8) scale(0.95)">
+<path d="M29.976 0C13.422 0 0 13.422 0 29.976s13.422 29.976 29.976 29.976 29.976 -13.422 29.976 -29.976S46.53 0 29.976 0m13.044 47.047c-0.383 0.989 -1.063 1.536 -1.77 1.536a1.56 1.56 0 0 1 -1.032 -0.422c-5.388 -4.764 -11.61 -5.527 -15.882 -5.334 -4.734 0.217 -8.207 1.632 -8.239 1.648 -1.087 0.45 -2.22 -0.522 -2.516 -2.172 -0.3 -1.65 0.342 -3.358 1.432 -3.81 0.156 -0.066 3.893 -1.602 9.085 -1.86a27 27 0 0 1 8.75 0.96 24.3 24.3 0 0 1 9.438 5.213c0.978 0.865 1.308 2.766 0.734 4.247m3.81 -9.191c-0.45 0.989 -1.26 1.536 -2.095 1.536a2.04 2.04 0 0 1 -1.22 -0.422c-6.38 -4.764 -13.752 -5.527 -18.812 -5.334 -5.61 0.217 -9.72 1.632 -9.761 1.648 -1.292 0.45 -2.628 -0.522 -2.984 -2.172s0.407 -3.358 1.698 -3.81c0.181 -0.066 4.608 -1.602 10.762 -1.86 3.624 -0.152 7.11 0.173 10.368 0.96a30.6 30.6 0 0 1 11.178 5.213c1.158 0.864 1.548 2.766 0.87 4.247m2.346 -8.988a2.85 2.85 0 0 1 -1.5 -0.426c-15.174 -9.24 -34.852 -3.75 -35.05 -3.696 -1.584 0.458 -3.224 -0.51 -3.66 -2.162s0.494 -3.36 2.078 -3.816c0.228 -0.066 5.656 -1.602 13.2 -1.86a55.95 55.95 0 0 1 12.72 0.96c5.058 1.001 9.671 2.752 13.71 5.214 1.422 0.864 1.9 2.761 1.069 4.242a2.985 2.985 0 0 1 -2.574 1.54" fill="var(--icon-fill)">/>
+		</g>
+            </g>
+        </g>
+    </g>
+</svg>
+    </a>
+
+
+</div>
+
+    
+
+    <div class="copyright">
+    
+       © Copyright 
+       2026 
+       <span class="split">
+        <svg fill="#bbbbbb" width="15" height="15" version="1.1" id="heart-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
+  <path d="M13.91,6.75c-1.17,2.25-4.3,5.31-6.07,6.94c-0.1903,0.1718-0.4797,0.1718-0.67,0C5.39,12.06,2.26,9,1.09,6.75&#xA;&#x9;C-1.48,1.8,5-1.5,7.5,3.45C10-1.5,16.48,1.8,13.91,6.75z"/>
+</svg>
+       </span>
+       Levi Sprung
+    
+    </div>
+
+    
+      <div class="powerby">
+        Powered by <a href='http://www.gohugo.io/'>Hugo</a> using <a href='https://github.com/levibsprung/hugo-theme-mini'>my fork</a> of the Mini theme by  <a href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
+      </div>
+    
+</footer>
+
+
+
+  </body>
+</html>
