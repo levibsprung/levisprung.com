@@ -7,7 +7,6 @@ categories:
 ---
 
 Some recent realizations about decor, its value, and downstream topics.
-
 <!--more-->
 
 ## Rationalization
