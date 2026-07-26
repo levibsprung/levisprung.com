@@ -1,54 +1,59 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Levi Sprung</title>
-    <link>https://levisprung.com/tags/</link>
-    <description>Recent content in Tags on Levi Sprung</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://levisprung.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Music</title>
-      <link>https://levisprung.com/tags/music/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://levisprung.com/tags/music/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reviewing</title>
-      <link>https://levisprung.com/tags/reviewing/</link>
-      <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://levisprung.com/tags/reviewing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Code</title>
-      <link>https://levisprung.com/tags/code/</link>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://levisprung.com/tags/code/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scrabble</title>
-      <link>https://levisprung.com/tags/scrabble/</link>
-      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://levisprung.com/tags/scrabble/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Magic</title>
-      <link>https://levisprung.com/tags/magic/</link>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://levisprung.com/tags/magic/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Poker</title>
-      <link>https://levisprung.com/tags/poker/</link>
-      <pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://levisprung.com/tags/poker/</guid>
-      <description></description>
-    </item>
-  </channel>
+	<channel>
+		<title>Tags on Levi Sprung</title>
+		<link>https://levisprung.com/tags/</link>
+		<description>Recent content in Tags on Levi Sprung</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 29 Sep 2025 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="https://levisprung.com/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Music</title>
+				<link>https://levisprung.com/tags/music/</link>
+				<pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://levisprung.com/tags/music/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Reviewing</title>
+				<link>https://levisprung.com/tags/reviewing/</link>
+				<pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://levisprung.com/tags/reviewing/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Code</title>
+				<link>https://levisprung.com/tags/code/</link>
+				<pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://levisprung.com/tags/code/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Scrabble</title>
+				<link>https://levisprung.com/tags/scrabble/</link>
+				<pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+				<guid>https://levisprung.com/tags/scrabble/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Magic</title>
+				<link>https://levisprung.com/tags/magic/</link>
+				<pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://levisprung.com/tags/magic/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Poker</title>
+				<link>https://levisprung.com/tags/poker/</link>
+				<pubDate>Mon, 09 Jun 2025 00:00:00 +0000</pubDate>
+				<guid>https://levisprung.com/tags/poker/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>
