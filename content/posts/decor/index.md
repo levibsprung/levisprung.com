@@ -8,6 +8,8 @@ categories:
 
 Some recent realizations about decor, its value, and downstream topics.
 
+<!--more-->
+
 ## Rationalization
 
 Around a week ago, my sister Hava shared an insightful list with me and my parents. The list was entitled "things I know about my brain", and it reinforced my belief that understanding the way our brains work and how they contribute to our needs is conducive to a happier and more intentional life. 
