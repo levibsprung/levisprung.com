@@ -78,7 +78,7 @@ My friend Anna sent me a poem about homesickness that stuck with me, along with 
 
 
 {{<figure
-    src="images/heimweh_wonach.png"
+    src="images/heimweh_wonach.jpeg"
     alt="Heimweh, wonach? A poem by Mascha Kaléko"
     title="Heimweh, wonach?">}} 
 
