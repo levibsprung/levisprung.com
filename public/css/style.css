@@ -129,7 +129,16 @@ pre {
 .markdown-image img {
   max-width: 100%;
 }
-.anchor { 
+/* Left-align figures (remove the browser default ~40px side margins) and keep images responsive */
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+figure img {
+  max-width: 100%;
+  height: auto;
+}
+.anchor {
   font-size: 100%; 
   visibility: hidden; 
   color:silver;

@@ -1,0 +1,11 @@
+/* Left-align figures (remove the browser default 40px side margins) */
+figure {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+/* Keep figure images responsive so a fixed width doesn't overflow on mobile */
+figure img {
+  max-width: 100%;
+  height: auto;
+}
