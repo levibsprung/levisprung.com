@@ -15,7 +15,7 @@ One such thing about my brain is that I tend to rationalize most choices I make,
 
 An example would be rationalizing my interest in professional sports by identifying it as a means to bolster connections and share common emotional and experiential reference points with others. I have been interested in sports as long as I can remember, and I didn't question this interest throughout my upbringing. After all, why would I feel the need to rationalize my own interests? But as I reached my late teens, my brain began to develop some hyperrational tendencies, likely in part due to heavy exposure to a certain card game I played online. And at a certain point, I began to wonder whether sports is just the masculine version of astrology, [^1] but I was able to analyze my interest in sports and conclude it was indeed rational.
 
-[^1]: I given rationalizing astrology a serious shot but I don't plan on doing so unless someone wants to do it for me.
+[^1]: I haven't given rationalizing astrology a serious shot but I don't plan on doing so unless someone wants to do it for me.
 
 Ultimately, all of this back-and-forth about whether interest in sports is rational or irrational is pretty useless. Even in my adulthood, I should be able to enjoy simple things without feeling the need to scrutinize them. Of course, none of this is going to stop me from scrutinizing things people find interest in, both for things I have experience with and things I don't. I believe attempting to rationalize things we don't have experience with is a helpful exercise that gives us insight into other perspectives and may lead us to developing otherwise unlikely interests.
 
