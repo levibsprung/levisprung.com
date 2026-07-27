@@ -11,17 +11,18 @@ How I would describe myself in a few paragraphs.
 ## Who am I?
 
 
-I am a Computer Science graduate (B.S. 2025) and Data Science student (M.S. 2026) at Colorado School of Mines. I pride myself in how much I've gotten out of my interests and hobbies, such as games (Magic: The Gathering, poker, chess, Scrabble), physical activities (skiing, rock climbing), learning languages (Spanish, Italian), and music (primarily musical theatre currently). 
+I am a software developer at Career Team. I graduated from Colorado School of Mines with my master's degree in data science in May 2026 after previously getting my bachelor's in computer science a year prior. I pride myself in how much I've gotten out of my interests and hobbies, such as games (Magic: The Gathering, poker, chess, Scrabble), physical activities (skiing, rock climbing), learning languages (Spanish, Italian), and music. 
 
 <!--more-->
 
 ## What am I doing?
 
-I am now in the thick of my last fall semester. I'm trying to develop a solid routine, as I haven't had a particularly normal week so far as of writing this, but I am hoping to spend the bulk of my spare time taking actions to further my career goals, be that working on job applications or on projects. As for extracurriculars, I was hoping to do one of the plays this semester to work on my acting skills and as a social and artistic outlet, but I didn't get into either of them so I opted to do a cappella instead, which provides a similar outlet along with plenty of additional benefits that the plays wouldn't have offered me.
+As of writing this, I am going into my fifth week of full-time work and my third week at my current apartment. Some aspects of the state of my apartment are in disarray, which I am trying to rectify, but I am mostly trying to settle into a consistent and effective routine and continue to meet my social short-term goals. My long-term goals are more unclear but I am figuring those out as I go, as this is an informative period in my life. 
+
 
 ## What are my goals?
 
 
 I've long wanted a place to catalog my ideas and experiences, so in this website's initial stages, that will be its primary purpose. Ideally, as I continue to work on more projects, it will also serve to showcase and document those.
 
-_Are you an employer or recruiter and want to learn more about me? [Download my resume (PDF)](/levi_sprung_resume.pdf) here!_
+_Last updated July 26, 2026_
